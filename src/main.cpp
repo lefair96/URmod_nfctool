@@ -87,6 +87,11 @@ void setup(void) {
   pinMode(relay3Pin, OUTPUT);
   pinMode(relay4Pin, OUTPUT);
 
+  digitalWrite(relay1Pin, LOW);
+  digitalWrite(relay2Pin, LOW);
+  digitalWrite(relay3Pin, LOW);
+  digitalWrite(relay4Pin, LOW);
+
   // *** END OF CUSTOM CODE ***
 
   Serial.begin(115200);
@@ -101,6 +106,9 @@ void setup(void) {
     Serial.print("Didn't find PN53x board");
     while (1); // halt
   }
+
+
+
   // Got ok data, print it out!
   Serial.print("Found chip PN5"); Serial.println((versiondata>>24) & 0xFF, HEX);
   Serial.print("Firmware ver. "); Serial.print((versiondata>>16) & 0xFF, DEC);
@@ -110,6 +118,11 @@ void setup(void) {
   nfc.SAMConfig();
 
   Serial.println("Waiting for an ISO14443A Card ...");
+
+  // *** CUSTOM CODE INJECTION ***
+  digitalWrite(relay1Pin, HIGH); // if the robot reads this signal, it means board is ready
+  // *** END OF CUSTOM CODE ***
+
 }
 
 
@@ -119,10 +132,7 @@ void loop(void) {
   uint8_t uidLength;                        // Length of the UID (4 or 7 bytes depending on ISO14443A card type)
 
   // *** CUSTOM CODE INJECTION ***
-  digitalWrite(relay1Pin, LOW);
   digitalWrite(relay2Pin, LOW);
-  digitalWrite(relay3Pin, LOW);
-  digitalWrite(relay4Pin, LOW);
 
   // *** END OF CUSTOM CODE ***
 
@@ -141,7 +151,7 @@ void loop(void) {
     Serial.println("");
 
     // *** CUSTOM CODE INJECTION ***
-    digitalWrite(relay1Pin,HIGH);
+    digitalWrite(relay2Pin,HIGH);
 
     // *** END OF CUSTOM CODE ***
 

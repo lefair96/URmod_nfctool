@@ -65,8 +65,29 @@ products from Adafruit!
 // Or use this line for a breakout or shield with an I2C connection:
 Adafruit_PN532 nfc(PN532_IRQ, PN532_RESET);
 
+// *** CUSTOM CODE INJECTION ***
+
+// define relay pins. relay numbering is done accordingly to SeedStudio schematics
+// find relay shield v3 schematics at https://wiki.seeedstudio.com/Relay_Shield_v3/
+// a copy of the schematics is included in the /res folder of this GitHub release
+uint8_t relay1Pin = 7;
+uint8_t relay2Pin = 6;
+uint8_t relay3Pin = 5;
+uint8_t relay4Pin = 4;
+
+// *** END OF CUSTOM CODE ***
+
 
 void setup(void) {
+
+  // *** CUSTOM CODE INJECTION ***
+  pinMode(relay1Pin, OUTPUT);
+  pinMode(relay2Pin, OUTPUT);
+  pinMode(relay3Pin, OUTPUT);
+  pinMode(relay4Pin, OUTPUT);
+
+  // *** END OF CUSTOM CODE ***
+
   Serial.begin(115200);
   while (!Serial) delay(10); // for Leonardo/Micro/Zero
 
@@ -96,6 +117,15 @@ void loop(void) {
   uint8_t uid[] = { 0, 0, 0, 0, 0, 0, 0 };  // Buffer to store the returned UID
   uint8_t uidLength;                        // Length of the UID (4 or 7 bytes depending on ISO14443A card type)
 
+  // *** CUSTOM CODE INJECTION ***
+  digitalWrite(relay1Pin, LOW);
+  digitalWrite(relay2Pin, LOW);
+  digitalWrite(relay3Pin, LOW);
+  digitalWrite(relay4Pin, LOW);
+
+  // *** END OF CUSTOM CODE ***
+
+
   // Wait for an ISO14443A type cards (Mifare, etc.).  When one is found
   // 'uid' will be populated with the UID, and uidLength will indicate
   // if the uid is 4 bytes (Mifare Classic) or 7 bytes (Mifare Ultralight)
@@ -108,6 +138,11 @@ void loop(void) {
     Serial.print("  UID Value: ");
     nfc.PrintHex(uid, uidLength);
     Serial.println("");
+
+    // *** CUSTOM CODE INJECTION ***
+    digitalWrite(relay1Pin,HIGH);
+
+    // *** END OF CUSTOM CODE ***
 
     if (uidLength == 4)
     {

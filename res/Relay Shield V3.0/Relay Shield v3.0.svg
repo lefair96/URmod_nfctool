@@ -1,0 +1,1916 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:tdo="http://static.transim.com/core/Transim.CAD/schemas/DrawObjectSVGExtension.xsd" viewBox="-128 -271 962 892" width="800px" height="741px">
+  <g tdo:type="object" transform="matrix(1 0 0 1 440 330)" id="fa0e95bccd8040c8aa4e097ff1d17eca">
+    <line x1="0" y1="0" x2="0" y2="10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 380 150)" id="3896321767d94938bbb0bc48cbd5d0b1">
+    <line x1="0" y1="0" x2="0" y2="-10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 440 130)" id="39332c8eccb246aabca35d768bd54c4d">
+    <line x1="0" y1="0" x2="0" y2="-10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 380 350)" id="0b7520a156264b40b1be6a13c8bb2dab">
+    <line x1="0" y1="0" x2="0" y2="10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 440 -180)" id="2264067ee3f447a68c00bbcf16006746">
+    <line x1="0" y1="0" x2="0" y2="10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 380 -70)" id="7fcabd262bed48c4b5b2e941dcdc3bf4">
+    <line x1="0" y1="0" x2="0" y2="10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 440 -90)" id="c063c0b599f940c1b4415ecc85e1371b">
+    <line x1="0" y1="0" x2="0" y2="10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 230 0)" id="ad6ec7ad85ae4cf894e75a5d00f517b2">
+    <line x1="0" y1="0" x2="20" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 250 0)" id="e8318dbc478c4ea5a4570fb8b2fc361b">
+    <line x1="0" y1="0" x2="0" y2="-10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(-0.999999999999996 -8.74227800037288E-08 8.74227800037288E-08 -0.999999999999996 279.999999125772 -4.99999912577224)" id="c4ca94e34b8e41a7a60950e6a05dd915">
+    <line x1="20" y1="10" x2="10" y2="10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <rect x="0" y="5" width="10" height="10" rx="0" ry="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="20" tdo:y="10" />
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 285 -15)">
+      <tspan x="0">GND</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 250 -10)" id="c9969e96cad94396b5c40487323c214c">
+    <line x1="0" y1="0" x2="10" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 380 560)" id="8148cd04f57d44349e77e9e435232a7c">
+    <line x1="0" y1="0" x2="0" y2="10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 440 550)" id="539887b216c34329918797e263c1d12d">
+    <line x1="0" y1="0" x2="0" y2="-10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 230 -10)" id="5d98d6c79021417e99720b6385a45cee">
+    <line x1="0" y1="0" x2="20" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 680 0)" id="16ad74fbc6bb43da8cd8c4d81d12a435">
+    <line x1="0" y1="0" x2="0" y2="90" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 680 90)" id="6ce142a0da12420488d800142604de75">
+    <line x1="0" y1="0" x2="80" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 560 220)" id="fdeae6b8957d49ccbd7470cbbc8e82ee">
+    <line x1="0" y1="0" x2="120" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 560 0)" id="5c697fad224f4becb9817ad157b0362d">
+    <line x1="0" y1="0" x2="120" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 560 -200)" id="a4faf4efa5ad42c2bd1823705c3f9a70">
+    <line x1="0" y1="0" x2="160" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 720 -200)" id="dc6775c0ac8d486dbbf826c6275c347c">
+    <line x1="0" y1="0" x2="0" y2="260" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 720 60)" id="65983576b7b744eaaf2466564690f672">
+    <line x1="0" y1="0" x2="40" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 720 180)" id="3106d3c7446b401fbc3459fd09325db5">
+    <line x1="0" y1="0" x2="40" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 440 -190)" id="3d93a302a0314834b9553c1341d12997">
+    <line x1="0" y1="0" x2="0" y2="10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 440 -180)" id="1fc9984279254fd18c260bbf58c5fbb0">
+    <line x1="0" y1="0" x2="20" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 720 420)" id="f2c177eb100d43adb88c7f5819e0f397">
+    <line x1="0" y1="0" x2="0" y2="-240" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 680 220)" id="33b4f7edafe34db1a62255d7ad38ba02">
+    <line x1="0" y1="0" x2="0" y2="-80" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 680 140)" id="ca1334040733455295f5409dd490e79f">
+    <line x1="0" y1="0" x2="80" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 560 420)" id="602372cbd0a04254aa79675087acb377">
+    <line x1="0" y1="0" x2="160" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 710 370)" id="614e86220e944a54b100d98e18248905">
+    <line x1="0" y1="0" x2="0" y2="-210" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 710 160)" id="01753ec2a3ba4a29a6c388ee1a937302">
+    <line x1="0" y1="0" x2="50" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 510 370)" id="d38e068860604753bd3daf0f926495e0">
+    <line x1="0" y1="0" x2="200" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 670 120)" id="912c688cbe6c46998d503b417defaeaa">
+    <line x1="0" y1="0" x2="90" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 510 380)" id="80eb465980c44272bf2b06762064c107">
+    <line x1="0" y1="0" x2="0" y2="-10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 380 -110)" id="3b807695c9c64f5dbd9a3b15861befa9">
+    <line x1="0" y1="0" x2="0" y2="10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 -10 -50)" id="a15d7832be6644e3a4b6edebec52b945">
+    <line x1="0" y1="0" x2="-40" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 -70 -55)" id="e08af49825ae4e3abdb4608f8a400815">
+    <line x1="20" y1="10" x2="10" y2="10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <rect x="0" y="5" width="10" height="10" rx="0" ry="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="20" tdo:y="10" />
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 -75 -45)">
+      <tspan x="0">RELAY1</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 340 -110)" id="4a29c09565ec462488d8506631fd8535">
+    <line x1="0" y1="0" x2="0" y2="10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 390 -110)" id="a1ffb8105d984c61bfef9066208d4d05">
+    <line x1="0" y1="0" x2="-10" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 380 -110)" id="d9fbf1638fb24acaae1eee18430ba991">
+    <line x1="0" y1="0" x2="-40" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 730 -260)" id="0c56f8c89a834abca6117ce2341e330d">
+    <line x1="0" y1="0" x2="0" y2="300" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 730 40)" id="5efc66c014014bcca9f259a5cc59b43f">
+    <line x1="0" y1="0" x2="30" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 510 -40)" id="28a4d433e9314982a59371ed262d787d">
+    <line x1="0" y1="0" x2="0" y2="-10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 340 -40)" id="565b49da68f5450a923da9a4f6007632">
+    <line x1="0" y1="0" x2="0" y2="10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 510 -250)" id="81ce3cea8baf420ca81dac1dd16e4e29">
+    <line x1="0" y1="0" x2="0" y2="-10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 510 -260)" id="4f01cb94035e4d42a406843a35669c34">
+    <line x1="0" y1="0" x2="220" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 510 170)" id="6cc62f3760af46a380e1110a7f6044cf">
+    <line x1="0" y1="0" x2="0" y2="-10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 670 160)" id="d5f30ed2db524ed49e91217edc62d400">
+    <line x1="0" y1="0" x2="0" y2="-40" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 510 160)" id="5cf7cb4fff3845e39341db50faeea62c">
+    <line x1="0" y1="0" x2="160" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 510 -50)" id="422cdbf842ad41a1a0c38f65860f9d89">
+    <line x1="0" y1="0" x2="180" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 690 -50)" id="aab0ade525934f7496be08e972a79a36">
+    <line x1="0" y1="0" x2="0" y2="130" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 690 80)" id="11e6c6f1c3dc4c9cafcdb89e01a52565">
+    <line x1="0" y1="0" x2="70" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 -70 -65)" id="d55c30a9a964411e928006cb68a0d60d">
+    <line x1="20" y1="10" x2="10" y2="10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <rect x="0" y="5" width="10" height="10" rx="0" ry="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="20" tdo:y="10" />
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 -75 -55)">
+      <tspan x="0">RELAY2</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 380 100)" id="09d4a9ab81c249b79c60f908cc1433e8">
+    <line x1="0" y1="0" x2="-40" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 -50 -60)" id="bd629eb794134bb2a79ac7b26fe1369e">
+    <line x1="0" y1="0" x2="40" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 380 100)" id="dea76c706e284bdc92366ce78a771946">
+    <line x1="0" y1="0" x2="0" y2="10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 380 100)" id="a97e7bfcaf2b4493b21f2027e5c101be">
+    <line x1="0" y1="0" x2="10" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 340 100)" id="5e22ccf70be744de876f5ddb2d0b6498">
+    <line x1="0" y1="0" x2="0" y2="10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 -70 -75)" id="c9dca5cd34e54225bfd95d9776db2816">
+    <line x1="20" y1="10" x2="10" y2="10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <rect x="0" y="5" width="10" height="10" rx="0" ry="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="20" tdo:y="10" />
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 -75 -65)">
+      <tspan x="0">RELAY3</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 -10 -70)" id="58b494f58aac4b24aeee559af4d235f6">
+    <line x1="0" y1="0" x2="-40" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 340 310)" id="0fd7d47e63574634a239af15766f68d8">
+    <line x1="0" y1="0" x2="0" y2="10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 380 310)" id="51fa18e27feb402484f348bf32282e3e">
+    <line x1="0" y1="0" x2="10" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 380 310)" id="200915d6c82e46aeb6a9e3b8f1dcbab7">
+    <line x1="0" y1="0" x2="0" y2="10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 380 310)" id="96d39976828b4f9bad1cd74b35e8a4f1">
+    <line x1="0" y1="0" x2="-40" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 -70 -85)" id="c75e5c5b84f041a1911446f10793e2a6">
+    <line x1="20" y1="10" x2="10" y2="10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <rect x="0" y="5" width="10" height="10" rx="0" ry="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="20" tdo:y="10" />
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 -75 -75)">
+      <tspan x="0">RELAY4</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 380 520)" id="c259cdaf4cff44ca8587e536aa66b25f">
+    <line x1="0" y1="0" x2="10" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 380 520)" id="26d2ff92eaba479884dffe421e033b12">
+    <line x1="0" y1="0" x2="-40" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 380 520)" id="668d9ca72e4b4e30a047220ce89bb695">
+    <line x1="0" y1="0" x2="0" y2="10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 -50 -70)" id="2ebd64ddd522416ea09c48081655efb5">
+    <line x1="0" y1="0" x2="40" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 340 530)" id="41ebf415008f48fa946f28fdaf35d3af">
+    <line x1="0" y1="0" x2="0" y2="-10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 380 -240)" id="92c6f3a8bd2b413aa9747591308102b1">
+    <line x1="20" y1="10" x2="10" y2="10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <rect x="0" y="5" width="10" height="10" rx="0" ry="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="20" tdo:y="10" />
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 375 -230)">
+      <tspan x="0">5V</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 460 -230)" id="81f616d0d89249609c7ac0f2fcebaabc">
+    <line x1="0" y1="0" x2="-20" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 440 -220)" id="a88814a94b9b4bb6bb760b8039dc6beb">
+    <line x1="0" y1="0" x2="0" y2="-10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 440 -230)" id="fa7ef473a13340e6a99b0ed7ef8f9cf1">
+    <line x1="0" y1="0" x2="-40" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 380 -30)" id="7466614e71074611b4ba39dd0eff6fe8">
+    <line x1="20" y1="10" x2="10" y2="10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <rect x="0" y="5" width="10" height="10" rx="0" ry="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="20" tdo:y="10" />
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 375 -20)">
+      <tspan x="0">5V</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 440 -20)" id="3224de207690400a99e71b0891453a99">
+    <line x1="0" y1="0" x2="-40" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 460 -20)" id="a5bb31ea19fa4ee5b03004c4f9345c21">
+    <line x1="0" y1="0" x2="-20" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 440 -10)" id="c13d81d7606642b783e1af1fbfbf07db">
+    <line x1="0" y1="0" x2="0" y2="-10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 380 180)" id="bf37e29f03fb4e38a4d3b755f164c033">
+    <line x1="20" y1="10" x2="10" y2="10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <rect x="0" y="5" width="10" height="10" rx="0" ry="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="20" tdo:y="10" />
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 375 190)">
+      <tspan x="0">5V</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 460 190)" id="84395047f1564d12b9e084d9949f3e92">
+    <line x1="0" y1="0" x2="-20" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 440 200)" id="74c2582c14694fdcbdab87e375987f6c">
+    <line x1="0" y1="0" x2="0" y2="-10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 440 190)" id="18e44b38298448df938fdc61594d9182">
+    <line x1="0" y1="0" x2="-40" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 440 400)" id="7bf4f4fffc1e4c7cbc38188baf757921">
+    <line x1="0" y1="0" x2="-40" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 440 410)" id="7b43e9346cff41c8972b5ac30bc9dd55">
+    <line x1="0" y1="0" x2="0" y2="-10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 380 390)" id="3a251c4bc07c409db5423c52a6a5a89d">
+    <line x1="20" y1="10" x2="10" y2="10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <rect x="0" y="5" width="10" height="10" rx="0" ry="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="20" tdo:y="10" />
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 375 400)">
+      <tspan x="0">5V</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 460 400)" id="09de8a691efa4e8a9eda46b669f91d02">
+    <line x1="0" y1="0" x2="-20" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(-0.999999999999996 -8.74227800037288E-08 8.74227800037288E-08 -0.999999999999996 279.999999125772 15.0000008742278)" id="d891856847b64c99ab2ea5c2f34963f6">
+    <line x1="20" y1="10" x2="10" y2="10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <rect x="0" y="5" width="10" height="10" rx="0" ry="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="20" tdo:y="10" />
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 285 5)">
+      <tspan x="0">5V</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 730 190)" id="614c82d3423949a0b91d34fc80fb3722">
+    <line x1="0" y1="0" x2="30" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 440 -140)" id="1a571a3c86e6453b8e0b19acfb90c80f">
+    <line x1="0" y1="0" x2="0" y2="10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 730 480)" id="cb98e4acd94f4fd08d2c6a430a86de01">
+    <line x1="0" y1="0" x2="0" y2="-290" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 510 470)" id="12385d967f9947a4b6dfe4adfc302394">
+    <line x1="0" y1="0" x2="0" y2="10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 510 480)" id="a0115c6d894b4a75b52bb4b8a0b12ec3">
+    <line x1="0" y1="0" x2="220" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 340 150)" id="3d5968dbd0394e699c2a16a54189c152">
+    <line x1="0" y1="0" x2="0" y2="-10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 435 -110)" id="04caba99e56647a0981a2ca3550cc042" selectable="true">
+    <line x1="0" y1="10" x2="0" y2="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="0" x2="0" y2="-10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="0" x2="10" y2="10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="0" x2="10" y2="-10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="10" y1="10" x2="7.5" y2="5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="10" y1="10" x2="5" y2="7.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_B" tdo:groupmode="pin" tdo:x="-10" tdo:y="0">
+      <path d="M-10 0L0.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_E" tdo:groupmode="pin" tdo:x="10" tdo:y="20">
+      <path d="M10 20L10 9.5" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="north" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_C" tdo:groupmode="pin" tdo:x="10" tdo:y="-20">
+      <path d="M10 -20L10 -9.5" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="south" tdo:pllength="10.5" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 450 -115)">
+      <tspan x="0">s9013</tspan>
+    </text>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 450 -125)">
+      <tspan x="0">Q1</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 440 490)" id="a50500ec700c4f75a9fec34dabf42a62">
+    <line x1="0" y1="0" x2="0" y2="10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 440 70)" id="34e5be6d846f4ce8ad9e9d4b18edb276">
+    <line x1="0" y1="0" x2="0" y2="10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 440 280)" id="4a849e2ae2b247809315608fa5fe53b6">
+    <line x1="0" y1="0" x2="0" y2="10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 690 150)" id="31bd141ba9884b87bd133635ee9542d5">
+    <line x1="0" y1="0" x2="70" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 440 450)" id="d1f94d9db37e44c498a76540e37866b3">
+    <line x1="0" y1="0" x2="20" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 440 440)" id="e008691f1a0c47d98a5e8f3a3f4419bb">
+    <line x1="0" y1="0" x2="0" y2="10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 440 450)" id="9d23baeea085474ca0db0b99c9cd3a98">
+    <line x1="0" y1="0" x2="0" y2="10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 510 -150)" id="5a65d52d01334f72beea362b1ddf112e">
+    <line x1="0" y1="0" x2="200" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 510 -160)" id="59f57f25449742198e0abc748abe38b9">
+    <line x1="0" y1="0" x2="0" y2="10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 440 240)" id="1000c9167ff7466abee1927991488e93">
+    <line x1="0" y1="0" x2="0" y2="10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 460 30)" id="5e682ab386e140ea8a09b216c8419c27">
+    <line x1="0" y1="0" x2="-20" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 440 30)" id="3018c618b6dc46f99b19722f1f838d3b">
+    <line x1="0" y1="0" x2="0" y2="-10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 440 40)" id="4efdb9929e3d44c6b2ef64cb24eedf47">
+    <line x1="0" y1="0" x2="0" y2="-10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 440 230)" id="c12e9779907340aaa212f768280b59d6">
+    <line x1="0" y1="0" x2="0" y2="10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 460 240)" id="b79c76e5ff104223946934c278ed8f23">
+    <line x1="0" y1="0" x2="-20" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 670 60)" id="c604f255b11f4373ae2ea2e7c6073bed">
+    <line x1="0" y1="0" x2="0" y2="50" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 510 60)" id="17c5ea163347493f925d4adbb86f48fd">
+    <line x1="0" y1="0" x2="160" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 670 110)" id="936861eb383d45aca052cd8bebf052f5">
+    <line x1="0" y1="0" x2="90" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 510 270)" id="f6e745278ddb468ab1ec8af06de0e575">
+    <line x1="0" y1="0" x2="180" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 510 260)" id="d7ef8d8792ff4ae88796ab031992489d">
+    <line x1="0" y1="0" x2="0" y2="10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 710 -150)" id="c1b67e2738b04a00aae7d7de8c39be26">
+    <line x1="0" y1="0" x2="0" y2="220" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 690 270)" id="611758fa42c4440985e60f07e84f339f">
+    <line x1="0" y1="0" x2="0" y2="-120" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 510 50)" id="6f13f4964a864a549102de9edbc58e12">
+    <line x1="0" y1="0" x2="0" y2="10" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 710 70)" id="c59d266f859b4f63a4834ddc2e3ced03">
+    <line x1="0" y1="0" x2="50" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 435 100)" id="a5e32eaadcf34a3a8d61b9be621ad8c6" selectable="true">
+    <line x1="0" y1="10" x2="0" y2="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="0" x2="0" y2="-10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="0" x2="10" y2="10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="0" x2="10" y2="-10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="10" y1="10" x2="7.5" y2="5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="10" y1="10" x2="5" y2="7.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_B" tdo:groupmode="pin" tdo:x="-10" tdo:y="0">
+      <path d="M-10 0L0.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_E" tdo:groupmode="pin" tdo:x="10" tdo:y="20">
+      <path d="M10 20L10 9.5" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="north" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_C" tdo:groupmode="pin" tdo:x="10" tdo:y="-20">
+      <path d="M10 -20L10 -9.5" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="south" tdo:pllength="10.5" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 450 95)">
+      <tspan x="0">s9013</tspan>
+    </text>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 450 85)">
+      <tspan x="0">Q2</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 435 310)" id="46bd9dbb279644eba17466e6c0a8f91e" selectable="true">
+    <line x1="0" y1="10" x2="0" y2="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="0" x2="0" y2="-10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="0" x2="10" y2="10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="0" x2="10" y2="-10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="10" y1="10" x2="7.5" y2="5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="10" y1="10" x2="5" y2="7.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_B" tdo:groupmode="pin" tdo:x="-10" tdo:y="0">
+      <path d="M-10 0L0.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_E" tdo:groupmode="pin" tdo:x="10" tdo:y="20">
+      <path d="M10 20L10 9.5" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="north" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_C" tdo:groupmode="pin" tdo:x="10" tdo:y="-20">
+      <path d="M10 -20L10 -9.5" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="south" tdo:pllength="10.5" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 450 305)">
+      <tspan x="0">s9013</tspan>
+    </text>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 450 295)">
+      <tspan x="0">Q3</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 435 520)" id="d8c2c9e24c2a48f6b6bf7905a90c7062" selectable="true">
+    <line x1="0" y1="10" x2="0" y2="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="0" x2="0" y2="-10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="0" x2="10" y2="10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="0" x2="10" y2="-10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="10" y1="10" x2="7.5" y2="5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="10" y1="10" x2="5" y2="7.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_B" tdo:groupmode="pin" tdo:x="-10" tdo:y="0">
+      <path d="M-10 0L0.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_E" tdo:groupmode="pin" tdo:x="10" tdo:y="20">
+      <path d="M10 20L10 9.5" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="north" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_C" tdo:groupmode="pin" tdo:x="10" tdo:y="-20">
+      <path d="M10 -20L10 -9.5" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="south" tdo:pllength="10.5" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 450 515)">
+      <tspan x="0">s9013</tspan>
+    </text>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 450 505)">
+      <tspan x="0">Q4</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1.19248804548121E-08 -1 1 1.19248804548121E-08 445 -200)" id="7250d82436ad49fb84dcd98dc3641089" selectable="true">
+    <line x1="-5" y1="10" x2="-5" y2="-10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-5" y1="10" x2="5" y2="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-5" y1="-10" x2="5" y2="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="-10" x2="5" y2="10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_+" tdo:groupmode="pin" tdo:x="-15" tdo:y="0">
+      <path d="M-15 0L-4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_-" tdo:groupmode="pin" tdo:x="15" tdo:y="0">
+      <path d="M15 0L4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="10.5" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 430 -200)">
+      <tspan x="0">LL4148</tspan>
+    </text>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 430 -210)">
+      <tspan x="0">D1</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1.19248804548121E-08 -1 1 1.19248804548121E-08 445 10)" id="6ddfc98decae43c4a5bdbe87bf7bc07c" selectable="true">
+    <line x1="-5" y1="10" x2="-5" y2="-10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-5" y1="10" x2="5" y2="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-5" y1="-10" x2="5" y2="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="-10" x2="5" y2="10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_+" tdo:groupmode="pin" tdo:x="-15" tdo:y="0">
+      <path d="M-15 0L-4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_-" tdo:groupmode="pin" tdo:x="15" tdo:y="0">
+      <path d="M15 0L4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="10.5" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 430 10)">
+      <tspan x="0">LL4148</tspan>
+    </text>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 430 0)">
+      <tspan x="0">D2</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1.19248804548121E-08 -1 1 1.19248804548121E-08 445 430)" id="d0f0b2f1711f4307a829d7a9a75612b9" selectable="true">
+    <line x1="-5" y1="10" x2="-5" y2="-10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-5" y1="10" x2="5" y2="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-5" y1="-10" x2="5" y2="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="-10" x2="5" y2="10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_+" tdo:groupmode="pin" tdo:x="-15" tdo:y="0">
+      <path d="M-15 0L-4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_-" tdo:groupmode="pin" tdo:x="15" tdo:y="0">
+      <path d="M15 0L4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="10.5" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 430 430)">
+      <tspan x="0">LL4148</tspan>
+    </text>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 430 420)">
+      <tspan x="0">D4</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1.19248804548121E-08 -1 1 1.19248804548121E-08 445 220)" id="2c6ea81708604e70974f6a27317c1040" selectable="true">
+    <line x1="-5" y1="10" x2="-5" y2="-10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-5" y1="10" x2="5" y2="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-5" y1="-10" x2="5" y2="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="-10" x2="5" y2="10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_+" tdo:groupmode="pin" tdo:x="-15" tdo:y="0">
+      <path d="M-15 0L-4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_-" tdo:groupmode="pin" tdo:x="15" tdo:y="0">
+      <path d="M15 0L4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="10.5" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 430 220)">
+      <tspan x="0">LL4148</tspan>
+    </text>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 430 210)">
+      <tspan x="0">D3</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 375 360)" id="fe11878a653d4ff997aca8e96f3100cf">
+    <line x1="-5" y1="2.5" x2="0" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="2.5" x2="5" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-2.5" y1="5" x2="2.5" y2="5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-1.25" y1="7.5" x2="1.25" y2="7.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="0" x2="0" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="0" tdo:y="0" />
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 365 365)">
+      <tspan x="0">GND_POWER</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 445 340)" id="ddc0be6762264b439baea2225ed75966">
+    <line x1="-5" y1="2.5" x2="0" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="2.5" x2="5" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-2.5" y1="5" x2="2.5" y2="5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-1.25" y1="7.5" x2="1.25" y2="7.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="0" x2="0" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="0" tdo:y="0" />
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 435 345)">
+      <tspan x="0">GND_POWER</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 445 -80)" id="e5e498524a404c67ae61347dd52fd28b">
+    <line x1="-5" y1="2.5" x2="0" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="2.5" x2="5" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-2.5" y1="5" x2="2.5" y2="5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-1.25" y1="7.5" x2="1.25" y2="7.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="0" x2="0" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="0" tdo:y="0" />
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 435 -75)">
+      <tspan x="0">GND_POWER</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 375 -60)" id="ed1a68c2e54943ed81bd882e1a212e27">
+    <line x1="-5" y1="2.5" x2="0" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="2.5" x2="5" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-2.5" y1="5" x2="2.5" y2="5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-1.25" y1="7.5" x2="1.25" y2="7.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="0" x2="0" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="0" tdo:y="0" />
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 365 -55)">
+      <tspan x="0">GND_POWER</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 375 150)" id="c2376dbf3c104deb84a02ce84f93b66f">
+    <line x1="-5" y1="2.5" x2="0" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="2.5" x2="5" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-2.5" y1="5" x2="2.5" y2="5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-1.25" y1="7.5" x2="1.25" y2="7.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="0" x2="0" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="0" tdo:y="0" />
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 365 155)">
+      <tspan x="0">GND_POWER</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 445 130)" id="0a14a794133a4b95a7bb76aa53cb3142">
+    <line x1="-5" y1="2.5" x2="0" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="2.5" x2="5" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-2.5" y1="5" x2="2.5" y2="5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-1.25" y1="7.5" x2="1.25" y2="7.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="0" x2="0" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="0" tdo:y="0" />
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 435 135)">
+      <tspan x="0">GND_POWER</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 375 570)" id="7142a5a76cbb4d509a1a832f275f8217">
+    <line x1="-5" y1="2.5" x2="0" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="2.5" x2="5" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-2.5" y1="5" x2="2.5" y2="5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-1.25" y1="7.5" x2="1.25" y2="7.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="0" x2="0" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="0" tdo:y="0" />
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 365 575)">
+      <tspan x="0">GND_POWER</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 445 550)" id="93b749ca546141b8afcdb8b8215dfcc6">
+    <line x1="-5" y1="2.5" x2="0" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="2.5" x2="5" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-2.5" y1="5" x2="2.5" y2="5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-1.25" y1="7.5" x2="1.25" y2="7.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="0" x2="0" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="0" tdo:y="0" />
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 435 555)">
+      <tspan x="0">GND_POWER</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1.19248804548121E-08 -1 1 1.19248804548121E-08 445 -150)" id="622bde21057440d099aa92108ff3044f" selectable="true">
+    <line x1="-5" y1="-2" x2="5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="-2" x2="5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="2" x2="-5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-5" y1="2" x2="-5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="-15" tdo:y="0">
+      <path d="M-15 0L-4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_2" tdo:groupmode="pin" tdo:x="15" tdo:y="0">
+      <path d="M15 0L4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="10.5" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 438 -150)">
+      <tspan x="0">15R</tspan>
+    </text>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 438 -160)">
+      <tspan x="0">R1</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 510 10)" id="847bb6e855894d568086b0f1bf168a02" selectable="true">
+    <path d="M-30 -25A5 5 0 0 1 -30 -15" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <path d="M-30 -15A5 5 0 0 1 -30 -5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <path d="M-30 -5A5 5 0 0 1 -30 5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <path d="M-30 5A5 5 0 0 1 -30 15" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <path d="M-30 15A5 5 0 0 1 -30 25" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="-10" x2="0" y2="-25" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="5" x2="0" y2="20" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="15" y1="-10" x2="25" y2="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="25" y1="0" x2="35" y2="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-35" y1="-30" x2="35" y2="-30" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="35" y1="-30" x2="35" y2="30" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="35" y1="30" x2="-35" y2="30" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-35" y1="30" x2="-35" y2="-30" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="25" x2="0" y2="20" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_V+" tdo:groupmode="pin" tdo:x="-50" tdo:y="-25">
+      <text x="0" y="0" font-size="10" font-family="Arial" tdo:texttype="text" transform="matrix(1 0 0 1 -25 -25)">
+        <tspan x="0" dy="3.3">V+</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(1 0 0 1 -40 -30)">
+        <tspan x="0" dy="3.3">2</tspan>
+      </text>
+      <path d="M-50 -25L-30 -25" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="20" />
+    </g>
+    <g id="Pin_V-" tdo:groupmode="pin" tdo:x="-50" tdo:y="25">
+      <text x="0" y="0" font-size="10" font-family="Arial" tdo:texttype="text" transform="matrix(1 0 0 1 -25 25)">
+        <tspan x="0" dy="3.3">V-</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(1 0 0 1 -40 20)">
+        <tspan x="0" dy="3.3">3</tspan>
+      </text>
+      <path d="M-50 25L-30 25" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="20" />
+    </g>
+    <g id="Pin_NO" tdo:groupmode="pin" tdo:x="0" tdo:y="-45">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" tdo:texttype="text" transform="matrix(0 -1 1 0 0 -20)">
+        <tspan x="0" dy="3.3">NO</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 -1 1 0 -5 -35)">
+        <tspan x="0" dy="3.3">4</tspan>
+      </text>
+      <path d="M0 -45L0 -25" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="south" tdo:pllength="20" />
+    </g>
+    <g id="Pin_NC" tdo:groupmode="pin" tdo:x="0" tdo:y="45">
+      <text x="0" y="0" font-size="10" font-family="Arial" tdo:texttype="text" transform="matrix(0 -1 1 0 0 20)">
+        <tspan x="0" dy="3.3">NC</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 -1 1 0 -5 35)">
+        <tspan x="0" dy="3.3">5</tspan>
+      </text>
+      <path d="M0 45L0 25" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="north" tdo:pllength="20" />
+    </g>
+    <g id="Pin_COM" tdo:groupmode="pin" tdo:x="55" tdo:y="0">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" tdo:texttype="text" transform="matrix(1 0 0 1 30 0)">
+        <tspan x="0" dy="3.3">COM</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(1 0 0 1 45 -5)">
+        <tspan x="0" dy="3.3">1</tspan>
+      </text>
+      <path d="M55 0L35 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="20" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 465 -45)">
+      <tspan x="0">RELAY2</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 510 -200)" id="5d67b5192299441e939ccd5cf0cd689c" selectable="true">
+    <path d="M-30 -25A5 5 0 0 1 -30 -15" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <path d="M-30 -15A5 5 0 0 1 -30 -5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <path d="M-30 -5A5 5 0 0 1 -30 5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <path d="M-30 5A5 5 0 0 1 -30 15" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <path d="M-30 15A5 5 0 0 1 -30 25" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="-10" x2="0" y2="-25" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="5" x2="0" y2="20" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="15" y1="-10" x2="25" y2="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="25" y1="0" x2="35" y2="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-35" y1="-30" x2="35" y2="-30" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="35" y1="-30" x2="35" y2="30" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="35" y1="30" x2="-35" y2="30" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-35" y1="30" x2="-35" y2="-30" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="25" x2="0" y2="20" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_V+" tdo:groupmode="pin" tdo:x="-50" tdo:y="-25">
+      <text x="0" y="0" font-size="10" font-family="Arial" tdo:texttype="text" transform="matrix(1 0 0 1 -25 -25)">
+        <tspan x="0" dy="3.3">V+</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(1 0 0 1 -40 -30)">
+        <tspan x="0" dy="3.3">2</tspan>
+      </text>
+      <path d="M-50 -25L-30 -25" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="20" />
+    </g>
+    <g id="Pin_V-" tdo:groupmode="pin" tdo:x="-50" tdo:y="25">
+      <text x="0" y="0" font-size="10" font-family="Arial" tdo:texttype="text" transform="matrix(1 0 0 1 -25 25)">
+        <tspan x="0" dy="3.3">V-</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(1 0 0 1 -40 20)">
+        <tspan x="0" dy="3.3">3</tspan>
+      </text>
+      <path d="M-50 25L-30 25" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="20" />
+    </g>
+    <g id="Pin_NO" tdo:groupmode="pin" tdo:x="0" tdo:y="-45">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" tdo:texttype="text" transform="matrix(0 -1 1 0 0 -20)">
+        <tspan x="0" dy="3.3">NO</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 -1 1 0 -5 -35)">
+        <tspan x="0" dy="3.3">4</tspan>
+      </text>
+      <path d="M0 -45L0 -25" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="south" tdo:pllength="20" />
+    </g>
+    <g id="Pin_NC" tdo:groupmode="pin" tdo:x="0" tdo:y="45">
+      <text x="0" y="0" font-size="10" font-family="Arial" tdo:texttype="text" transform="matrix(0 -1 1 0 0 20)">
+        <tspan x="0" dy="3.3">NC</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 -1 1 0 -5 35)">
+        <tspan x="0" dy="3.3">5</tspan>
+      </text>
+      <path d="M0 45L0 25" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="north" tdo:pllength="20" />
+    </g>
+    <g id="Pin_COM" tdo:groupmode="pin" tdo:x="55" tdo:y="0">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" tdo:texttype="text" transform="matrix(1 0 0 1 30 0)">
+        <tspan x="0" dy="3.3">COM</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(1 0 0 1 45 -5)">
+        <tspan x="0" dy="3.3">1</tspan>
+      </text>
+      <path d="M55 0L35 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="20" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 465 -255)">
+      <tspan x="0">RELAY1</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 510 220)" id="df099760421a4ba4b89350122754298d" selectable="true">
+    <path d="M-30 -25A5 5 0 0 1 -30 -15" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <path d="M-30 -15A5 5 0 0 1 -30 -5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <path d="M-30 -5A5 5 0 0 1 -30 5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <path d="M-30 5A5 5 0 0 1 -30 15" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <path d="M-30 15A5 5 0 0 1 -30 25" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="-10" x2="0" y2="-25" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="5" x2="0" y2="20" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="15" y1="-10" x2="25" y2="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="25" y1="0" x2="35" y2="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-35" y1="-30" x2="35" y2="-30" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="35" y1="-30" x2="35" y2="30" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="35" y1="30" x2="-35" y2="30" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-35" y1="30" x2="-35" y2="-30" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="25" x2="0" y2="20" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_V+" tdo:groupmode="pin" tdo:x="-50" tdo:y="-25">
+      <text x="0" y="0" font-size="10" font-family="Arial" tdo:texttype="text" transform="matrix(1 0 0 1 -25 -25)">
+        <tspan x="0" dy="3.3">V+</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(1 0 0 1 -40 -30)">
+        <tspan x="0" dy="3.3">2</tspan>
+      </text>
+      <path d="M-50 -25L-30 -25" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="20" />
+    </g>
+    <g id="Pin_V-" tdo:groupmode="pin" tdo:x="-50" tdo:y="25">
+      <text x="0" y="0" font-size="10" font-family="Arial" tdo:texttype="text" transform="matrix(1 0 0 1 -25 25)">
+        <tspan x="0" dy="3.3">V-</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(1 0 0 1 -40 20)">
+        <tspan x="0" dy="3.3">3</tspan>
+      </text>
+      <path d="M-50 25L-30 25" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="20" />
+    </g>
+    <g id="Pin_NO" tdo:groupmode="pin" tdo:x="0" tdo:y="-45">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" tdo:texttype="text" transform="matrix(0 -1 1 0 0 -20)">
+        <tspan x="0" dy="3.3">NO</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 -1 1 0 -5 -35)">
+        <tspan x="0" dy="3.3">4</tspan>
+      </text>
+      <path d="M0 -45L0 -25" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="south" tdo:pllength="20" />
+    </g>
+    <g id="Pin_NC" tdo:groupmode="pin" tdo:x="0" tdo:y="45">
+      <text x="0" y="0" font-size="10" font-family="Arial" tdo:texttype="text" transform="matrix(0 -1 1 0 0 20)">
+        <tspan x="0" dy="3.3">NC</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 -1 1 0 -5 35)">
+        <tspan x="0" dy="3.3">5</tspan>
+      </text>
+      <path d="M0 45L0 25" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="north" tdo:pllength="20" />
+    </g>
+    <g id="Pin_COM" tdo:groupmode="pin" tdo:x="55" tdo:y="0">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" tdo:texttype="text" transform="matrix(1 0 0 1 30 0)">
+        <tspan x="0" dy="3.3">COM</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(1 0 0 1 45 -5)">
+        <tspan x="0" dy="3.3">1</tspan>
+      </text>
+      <path d="M55 0L35 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="20" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 465 165)">
+      <tspan x="0">RELAY3</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 510 430)" id="116a8c526be6438c8c07bbd018cc3b90" selectable="true">
+    <path d="M-30 -25A5 5 0 0 1 -30 -15" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <path d="M-30 -15A5 5 0 0 1 -30 -5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <path d="M-30 -5A5 5 0 0 1 -30 5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <path d="M-30 5A5 5 0 0 1 -30 15" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <path d="M-30 15A5 5 0 0 1 -30 25" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="-10" x2="0" y2="-25" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="5" x2="0" y2="20" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="15" y1="-10" x2="25" y2="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="25" y1="0" x2="35" y2="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-35" y1="-30" x2="35" y2="-30" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="35" y1="-30" x2="35" y2="30" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="35" y1="30" x2="-35" y2="30" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-35" y1="30" x2="-35" y2="-30" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="25" x2="0" y2="20" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_V+" tdo:groupmode="pin" tdo:x="-50" tdo:y="-25">
+      <text x="0" y="0" font-size="10" font-family="Arial" tdo:texttype="text" transform="matrix(1 0 0 1 -25 -25)">
+        <tspan x="0" dy="3.3">V+</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(1 0 0 1 -40 -30)">
+        <tspan x="0" dy="3.3">2</tspan>
+      </text>
+      <path d="M-50 -25L-30 -25" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="20" />
+    </g>
+    <g id="Pin_V-" tdo:groupmode="pin" tdo:x="-50" tdo:y="25">
+      <text x="0" y="0" font-size="10" font-family="Arial" tdo:texttype="text" transform="matrix(1 0 0 1 -25 25)">
+        <tspan x="0" dy="3.3">V-</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(1 0 0 1 -40 20)">
+        <tspan x="0" dy="3.3">3</tspan>
+      </text>
+      <path d="M-50 25L-30 25" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="20" />
+    </g>
+    <g id="Pin_NO" tdo:groupmode="pin" tdo:x="0" tdo:y="-45">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" tdo:texttype="text" transform="matrix(0 -1 1 0 0 -20)">
+        <tspan x="0" dy="3.3">NO</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 -1 1 0 -5 -35)">
+        <tspan x="0" dy="3.3">4</tspan>
+      </text>
+      <path d="M0 -45L0 -25" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="south" tdo:pllength="20" />
+    </g>
+    <g id="Pin_NC" tdo:groupmode="pin" tdo:x="0" tdo:y="45">
+      <text x="0" y="0" font-size="10" font-family="Arial" tdo:texttype="text" transform="matrix(0 -1 1 0 0 20)">
+        <tspan x="0" dy="3.3">NC</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 -1 1 0 -5 35)">
+        <tspan x="0" dy="3.3">5</tspan>
+      </text>
+      <path d="M0 45L0 25" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="north" tdo:pllength="20" />
+    </g>
+    <g id="Pin_COM" tdo:groupmode="pin" tdo:x="55" tdo:y="0">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" tdo:texttype="text" transform="matrix(1 0 0 1 30 0)">
+        <tspan x="0" dy="3.3">COM</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(1 0 0 1 45 -5)">
+        <tspan x="0" dy="3.3">1</tspan>
+      </text>
+      <path d="M55 0L35 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="20" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 465 375)">
+      <tspan x="0">RELAY4</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1.19248804548121E-08 -1 1 1.19248804548121E-08 445 60)" id="9b94840d24d54da0adfe9edd583b9b0a" selectable="true">
+    <line x1="-5" y1="-2" x2="5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="-2" x2="5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="2" x2="-5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-5" y1="2" x2="-5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="-15" tdo:y="0">
+      <path d="M-15 0L-4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_2" tdo:groupmode="pin" tdo:x="15" tdo:y="0">
+      <path d="M15 0L4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="10.5" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 438 60)">
+      <tspan x="0">15R</tspan>
+    </text>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 438 50)">
+      <tspan x="0">R4</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1.19248804548121E-08 -1 1 1.19248804548121E-08 445 270)" id="983cbd5ecfcc46dc8a0d5bafe328cf7f" selectable="true">
+    <line x1="-5" y1="-2" x2="5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="-2" x2="5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="2" x2="-5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-5" y1="2" x2="-5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="-15" tdo:y="0">
+      <path d="M-15 0L-4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_2" tdo:groupmode="pin" tdo:x="15" tdo:y="0">
+      <path d="M15 0L4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="10.5" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 438 270)">
+      <tspan x="0">15R</tspan>
+    </text>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 438 260)">
+      <tspan x="0">R7</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1.19248804548121E-08 -1 1 1.19248804548121E-08 445 480)" id="94caa3b2975b418d9bea89160b3fe60a" selectable="true">
+    <line x1="-5" y1="-2" x2="5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="-2" x2="5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="2" x2="-5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-5" y1="2" x2="-5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="-15" tdo:y="0">
+      <path d="M-15 0L-4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_2" tdo:groupmode="pin" tdo:x="15" tdo:y="0">
+      <path d="M15 0L4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="10.5" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 438 480)">
+      <tspan x="0">15R</tspan>
+    </text>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 438 470)">
+      <tspan x="0">R10</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 395 -110)" id="9dd9505391ed4261ab7c9cf3700c9cda" selectable="true">
+    <line x1="-5" y1="-2" x2="5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="-2" x2="5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="2" x2="-5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-5" y1="2" x2="-5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="-15" tdo:y="0">
+      <path d="M-15 0L-4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_2" tdo:groupmode="pin" tdo:x="15" tdo:y="0">
+      <path d="M15 0L4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="10.5" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 385 -98)">
+      <tspan x="0">3.9k</tspan>
+    </text>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 385 -122)">
+      <tspan x="0">R2</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(-4.37113900018644E-08 0.999999999999999 -0.999999999999999 -4.37113900018644E-08 375 -90)" id="2c7d2922c9c645ada8905192898bba1f" selectable="true">
+    <line x1="-5" y1="-2" x2="5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="-2" x2="5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="2" x2="-5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-5" y1="2" x2="-5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="-15" tdo:y="0">
+      <path d="M-15 0L-4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_2" tdo:groupmode="pin" tdo:x="15" tdo:y="0">
+      <path d="M15 0L4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="10.5" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 382 -90)">
+      <tspan x="0">3.9k</tspan>
+    </text>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 382 -100)">
+      <tspan x="0">R3</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 395 100)" id="2b823856aaf4412ab83572ce476f8947" selectable="true">
+    <line x1="-5" y1="-2" x2="5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="-2" x2="5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="2" x2="-5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-5" y1="2" x2="-5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="-15" tdo:y="0">
+      <path d="M-15 0L-4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_2" tdo:groupmode="pin" tdo:x="15" tdo:y="0">
+      <path d="M15 0L4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="10.5" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 385 112)">
+      <tspan x="0">3.9k</tspan>
+    </text>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 385 88)">
+      <tspan x="0">R5</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1.19248804548121E-08 -1 1 1.19248804548121E-08 375 130)" id="3ea160c460634c56af6f57ccbf41c0d2" selectable="true">
+    <line x1="-5" y1="-2" x2="5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="-2" x2="5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="2" x2="-5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-5" y1="2" x2="-5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="-15" tdo:y="0">
+      <path d="M-15 0L-4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_2" tdo:groupmode="pin" tdo:x="15" tdo:y="0">
+      <path d="M15 0L4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="10.5" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 368 130)">
+      <tspan x="0">3.9k</tspan>
+    </text>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 368 120)">
+      <tspan x="0">R6</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 395 310)" id="a962b142162e4317b4277647ff40f590" selectable="true">
+    <line x1="-5" y1="-2" x2="5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="-2" x2="5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="2" x2="-5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-5" y1="2" x2="-5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="-15" tdo:y="0">
+      <path d="M-15 0L-4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_2" tdo:groupmode="pin" tdo:x="15" tdo:y="0">
+      <path d="M15 0L4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="10.5" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 385 322)">
+      <tspan x="0">3.9k</tspan>
+    </text>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 385 298)">
+      <tspan x="0">R8</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1.19248804548121E-08 -1 1 1.19248804548121E-08 375 340)" id="f5a24567f93e4b838f71b89d819c3ca4" selectable="true">
+    <line x1="-5" y1="-2" x2="5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="-2" x2="5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="2" x2="-5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-5" y1="2" x2="-5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="-15" tdo:y="0">
+      <path d="M-15 0L-4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_2" tdo:groupmode="pin" tdo:x="15" tdo:y="0">
+      <path d="M15 0L4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="10.5" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 368 340)">
+      <tspan x="0">3.9k</tspan>
+    </text>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 368 330)">
+      <tspan x="0">R9</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 395 520)" id="cab40559822048db88f91550f9f3797b" selectable="true">
+    <line x1="-5" y1="-2" x2="5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="-2" x2="5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="2" x2="-5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-5" y1="2" x2="-5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="-15" tdo:y="0">
+      <path d="M-15 0L-4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_2" tdo:groupmode="pin" tdo:x="15" tdo:y="0">
+      <path d="M15 0L4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="10.5" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 385 532)">
+      <tspan x="0">3.9k</tspan>
+    </text>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 385 508)">
+      <tspan x="0">R11</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1.19248804548121E-08 -1 1 1.19248804548121E-08 375 549.999938964844)" id="927f1d00f5cc491fb08c84a279310e41" selectable="true">
+    <line x1="-5" y1="-2" x2="5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="-2" x2="5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="2" x2="-5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-5" y1="2" x2="-5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="-15" tdo:y="0">
+      <path d="M-15 0L-4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_2" tdo:groupmode="pin" tdo:x="15" tdo:y="0">
+      <path d="M15 0L4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="10.5" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 368 549.9999)">
+      <tspan x="0">3.9k</tspan>
+    </text>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 368 539.9999)">
+      <tspan x="0">R12</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(-4.37113900018644E-08 0.999999999999999 -0.999999999999999 -4.37113900018644E-08 345 -90)" id="2006b2447e40428588933e9f550f22c3" selectable="true">
+    <line x1="-5" y1="10" x2="-5" y2="-10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-5" y1="-10" x2="-4.5" y2="-9.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-4.5" y1="-9.5" x2="-2" y2="-7" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-2" y1="-7" x2="5" y2="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="0" x2="-5" y2="10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="-10" x2="5" y2="10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-4.5" y1="-9.5" x2="3.5" y2="-17.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="3.5" y1="-17.5" x2="0.5" y2="-17" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="3.5" y1="-17.5" x2="3" y2="-14.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-2" y1="-7" x2="6" y2="-15" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="6" y1="-15" x2="3" y2="-14.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="6" y1="-15" x2="5.5" y2="-12" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_+" tdo:groupmode="pin" tdo:x="-15" tdo:y="0">
+      <path d="M-15 0L-4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_-" tdo:groupmode="pin" tdo:x="15" tdo:y="0">
+      <path d="M15 0L4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="10.5" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 367.5 -100)">
+      <tspan x="0">LED1</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1.19248804548121E-08 -1 1 1.19248804548121E-08 345 -45)" id="0048152f35db4a62af68aa34dd9d0b18" selectable="true">
+    <line x1="-5" y1="-2" x2="5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="-2" x2="5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="2" x2="-5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-5" y1="2" x2="-5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="-15" tdo:y="0">
+      <path d="M-15 0L-4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_2" tdo:groupmode="pin" tdo:x="15" tdo:y="0">
+      <path d="M15 0L4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="10.5" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 338 -45)">
+      <tspan x="0">1k</tspan>
+    </text>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 338 -55)">
+      <tspan x="0">R13</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(-4.37113900018644E-08 0.999999999999999 -0.999999999999999 -4.37113900018644E-08 345 120)" id="d29a771607a343409b034c0c4b19f72f" selectable="true">
+    <line x1="-5" y1="10" x2="-5" y2="-10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-5" y1="-10" x2="-4.5" y2="-9.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-4.5" y1="-9.5" x2="-2" y2="-7" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-2" y1="-7" x2="5" y2="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="0" x2="-5" y2="10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="-10" x2="5" y2="10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-4.5" y1="-9.5" x2="3.5" y2="-17.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="3.5" y1="-17.5" x2="0.5" y2="-17" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="3.5" y1="-17.5" x2="3" y2="-14.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-2" y1="-7" x2="6" y2="-15" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="6" y1="-15" x2="3" y2="-14.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="6" y1="-15" x2="5.5" y2="-12" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_+" tdo:groupmode="pin" tdo:x="-15" tdo:y="0">
+      <path d="M-15 0L-4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_-" tdo:groupmode="pin" tdo:x="15" tdo:y="0">
+      <path d="M15 0L4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="10.5" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 367.5 110)">
+      <tspan x="0">LED2</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1.19248804548121E-08 -1 1 1.19248804548121E-08 345 165)" id="6dfad852d0854230bae2a8f6c694a455" selectable="true">
+    <line x1="-5" y1="-2" x2="5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="-2" x2="5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="2" x2="-5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-5" y1="2" x2="-5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="-15" tdo:y="0">
+      <path d="M-15 0L-4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_2" tdo:groupmode="pin" tdo:x="15" tdo:y="0">
+      <path d="M15 0L4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="10.5" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 338 165)">
+      <tspan x="0">1k</tspan>
+    </text>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 338 155)">
+      <tspan x="0">R14</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(-4.37113900018644E-08 0.999999999999999 -0.999999999999999 -4.37113900018644E-08 345 330)" id="c892e443c54a43ec95da52bbdf53fc88" selectable="true">
+    <line x1="-5" y1="10" x2="-5" y2="-10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-5" y1="-10" x2="-4.5" y2="-9.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-4.5" y1="-9.5" x2="-2" y2="-7" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-2" y1="-7" x2="5" y2="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="0" x2="-5" y2="10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="-10" x2="5" y2="10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-4.5" y1="-9.5" x2="3.5" y2="-17.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="3.5" y1="-17.5" x2="0.5" y2="-17" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="3.5" y1="-17.5" x2="3" y2="-14.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-2" y1="-7" x2="6" y2="-15" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="6" y1="-15" x2="3" y2="-14.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="6" y1="-15" x2="5.5" y2="-12" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_+" tdo:groupmode="pin" tdo:x="-15" tdo:y="0">
+      <path d="M-15 0L-4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_-" tdo:groupmode="pin" tdo:x="15" tdo:y="0">
+      <path d="M15 0L4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="10.5" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 367.5 320)">
+      <tspan x="0">LED3</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1.19248804548121E-08 -1 1 1.19248804548121E-08 345 375)" id="07e849b91ad34344992cb269962f2cb5" selectable="true">
+    <line x1="-5" y1="-2" x2="5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="-2" x2="5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="2" x2="-5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-5" y1="2" x2="-5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="-15" tdo:y="0">
+      <path d="M-15 0L-4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_2" tdo:groupmode="pin" tdo:x="15" tdo:y="0">
+      <path d="M15 0L4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="10.5" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 338 375)">
+      <tspan x="0">1k</tspan>
+    </text>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 338 365)">
+      <tspan x="0">R15</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(-4.37113900018644E-08 0.999999999999999 -0.999999999999999 -4.37113900018644E-08 345 539.999938964844)" id="7ca21c25eb854de58dd54d278597b9ff" selectable="true">
+    <line x1="-5" y1="10" x2="-5" y2="-10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-5" y1="-10" x2="-4.5" y2="-9.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-4.5" y1="-9.5" x2="-2" y2="-7" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-2" y1="-7" x2="5" y2="0" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="0" x2="-5" y2="10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="-10" x2="5" y2="10" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-4.5" y1="-9.5" x2="3.5" y2="-17.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="3.5" y1="-17.5" x2="0.5" y2="-17" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="3.5" y1="-17.5" x2="3" y2="-14.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-2" y1="-7" x2="6" y2="-15" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="6" y1="-15" x2="3" y2="-14.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="6" y1="-15" x2="5.5" y2="-12" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_+" tdo:groupmode="pin" tdo:x="-15" tdo:y="0">
+      <path d="M-15 0L-4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_-" tdo:groupmode="pin" tdo:x="15" tdo:y="0">
+      <path d="M15 0L4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="10.5" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 367.5 529.9999)">
+      <tspan x="0">LED4</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1.19248804548121E-08 -1 1 1.19248804548121E-08 345 585.000061035156)" id="2fd6ad22c3d54ae987adfc973a729bb3" selectable="true">
+    <line x1="-5" y1="-2" x2="5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="-2" x2="5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="5" y1="2" x2="-5" y2="2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-5" y1="2" x2="-5" y2="-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="-15" tdo:y="0">
+      <path d="M-15 0L-4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="10.5" />
+    </g>
+    <g id="Pin_2" tdo:groupmode="pin" tdo:x="15" tdo:y="0">
+      <path d="M15 0L4.5 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="10.5" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 338 585.0001)">
+      <tspan x="0">1k</tspan>
+    </text>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 338 575.0001)">
+      <tspan x="0">R16</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 345 -30)" id="fb60f8e5d288435fac3fc68515f24700">
+    <line x1="-5" y1="2.5" x2="0" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="2.5" x2="5" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-2.5" y1="5" x2="2.5" y2="5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-1.25" y1="7.5" x2="1.25" y2="7.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="0" x2="0" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="0" tdo:y="0" />
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 335 -25)">
+      <tspan x="0">GND_POWER</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 345 180)" id="12afdc0c263f40f38cb25607b1a038fe">
+    <line x1="-5" y1="2.5" x2="0" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="2.5" x2="5" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-2.5" y1="5" x2="2.5" y2="5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-1.25" y1="7.5" x2="1.25" y2="7.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="0" x2="0" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="0" tdo:y="0" />
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 335 185)">
+      <tspan x="0">GND_POWER</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 345 390)" id="529da4f95b8f41a38f92e6a3cc20376a">
+    <line x1="-5" y1="2.5" x2="0" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="2.5" x2="5" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-2.5" y1="5" x2="2.5" y2="5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-1.25" y1="7.5" x2="1.25" y2="7.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="0" x2="0" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_1" tdo:groupmode="pin" tdo:x="0" tdo:y="0" />
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 335 395)">
+      <tspan x="0">GND_POWER</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 345 600)" id="53dea879f27d45159cab0ebd91c9e356">
+    <line x1="-5" y1="2.5" x2="0" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="2.5" x2="5" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-2.5" y1="5" x2="2.5" y2="5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-1.25" y1="7.5" x2="1.25" y2="7.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="0" y1="0" x2="0" y2="2.5" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_GND" tdo:groupmode="pin" tdo:x="0" tdo:y="0" />
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 335 605)">
+      <tspan x="0">GND_POWER</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1.19248804548121E-08 -1 1 1.19248804548121E-08 109.999999880751 -45)" id="38271dacb0e44488a5ce9602f104fa58" selectable="true">
+    <line x1="-130" y1="-100" x2="130" y2="-100" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="130" y1="-100" x2="130" y2="100" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="130" y1="100" x2="-130" y2="100" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-130" y1="100" x2="-130" y2="-100" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_PD0/D0/RX" tdo:groupmode="pin" tdo:x="75" tdo:y="-120">
+      <text x="0" y="0" font-size="10" font-family="Arial" tdo:texttype="text" transform="matrix(0 1 -1 0 75 -95)">
+        <tspan x="0" dy="3.3">PD0/D0/RX</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 70 -110)">
+        <tspan x="0" dy="3.3">1</tspan>
+      </text>
+      <path d="M75 -120L75 -100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="south" tdo:pllength="20" />
+    </g>
+    <g id="Pin_PD1/D1/TX" tdo:groupmode="pin" tdo:x="65" tdo:y="-120">
+      <text x="0" y="0" font-size="10" font-family="Arial" tdo:texttype="text" transform="matrix(0 1 -1 0 65 -95)">
+        <tspan x="0" dy="3.3">PD1/D1/TX</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 60 -110)">
+        <tspan x="0" dy="3.3">2</tspan>
+      </text>
+      <path d="M65 -120L65 -100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="south" tdo:pllength="20" />
+    </g>
+    <g id="Pin_PD2/D2/INT0" tdo:groupmode="pin" tdo:x="55" tdo:y="-120">
+      <text x="0" y="0" font-size="10" font-family="Arial" tdo:texttype="text" transform="matrix(0 1 -1 0 55 -95)">
+        <tspan x="0" dy="3.3">PD2/D2/INT0</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 50 -110)">
+        <tspan x="0" dy="3.3">3</tspan>
+      </text>
+      <path d="M55 -120L55 -100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="south" tdo:pllength="20" />
+    </g>
+    <g id="Pin_PD3/D3/INT1/PWM" tdo:groupmode="pin" tdo:x="45" tdo:y="-120">
+      <text x="0" y="0" font-size="10" font-family="Arial" tdo:texttype="text" transform="matrix(0 1 -1 0 45 -95)">
+        <tspan x="0" dy="3.3">PD3/D3/INT1/PWM</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 40 -110)">
+        <tspan x="0" dy="3.3">4</tspan>
+      </text>
+      <path d="M45 -120L45 -100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="south" tdo:pllength="20" />
+    </g>
+    <g id="Pin_PD4/D4" tdo:groupmode="pin" tdo:x="35" tdo:y="-120">
+      <text x="0" y="0" font-size="10" font-family="Arial" tdo:texttype="text" transform="matrix(0 1 -1 0 35 -95)">
+        <tspan x="0" dy="3.3">PD4/D4</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 30 -110)">
+        <tspan x="0" dy="3.3">5</tspan>
+      </text>
+      <path d="M35 -120L35 -100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="south" tdo:pllength="20" />
+    </g>
+    <g id="Pin_PD5/D5/PWM" tdo:groupmode="pin" tdo:x="25" tdo:y="-120">
+      <text x="0" y="0" font-size="10" font-family="Arial" tdo:texttype="text" transform="matrix(0 1 -1 0 25 -95)">
+        <tspan x="0" dy="3.3">PD5/D5/PWM</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 20 -110)">
+        <tspan x="0" dy="3.3">6</tspan>
+      </text>
+      <path d="M25 -120L25 -100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="south" tdo:pllength="20" />
+    </g>
+    <g id="Pin_PD6/D6/PWM" tdo:groupmode="pin" tdo:x="15" tdo:y="-120">
+      <text x="0" y="0" font-size="10" font-family="Arial" tdo:texttype="text" transform="matrix(0 1 -1 0 15 -95)">
+        <tspan x="0" dy="3.3">PD6/D6/PWM</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 10 -110)">
+        <tspan x="0" dy="3.3">7</tspan>
+      </text>
+      <path d="M15 -120L15 -100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="south" tdo:pllength="20" />
+    </g>
+    <g id="Pin_PD7/D7" tdo:groupmode="pin" tdo:x="5" tdo:y="-120">
+      <text x="0" y="0" font-size="10" font-family="Arial" tdo:texttype="text" transform="matrix(0 1 -1 0 5 -95)">
+        <tspan x="0" dy="3.3">PD7/D7</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 0 -110)">
+        <tspan x="0" dy="3.3">8</tspan>
+      </text>
+      <path d="M5 -120L5 -100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="south" tdo:pllength="20" />
+    </g>
+    <g id="Pin_PB0/D8" tdo:groupmode="pin" tdo:x="-15" tdo:y="-120">
+      <text x="0" y="0" font-size="10" font-family="Arial" tdo:texttype="text" transform="matrix(0 1 -1 0 -15 -95)">
+        <tspan x="0" dy="3.3">PB0/D8</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 -20 -110)">
+        <tspan x="0" dy="3.3">9</tspan>
+      </text>
+      <path d="M-15 -120L-15 -100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="south" tdo:pllength="20" />
+    </g>
+    <g id="Pin_PB1/D9/PWM" tdo:groupmode="pin" tdo:x="-25" tdo:y="-120">
+      <text x="0" y="0" font-size="10" font-family="Arial" tdo:texttype="text" transform="matrix(0 1 -1 0 -25 -95)">
+        <tspan x="0" dy="3.3">PB1/D9/PWM</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 -30 -110)">
+        <tspan x="0" dy="3.3">10</tspan>
+      </text>
+      <path d="M-25 -120L-25 -100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="south" tdo:pllength="20" />
+    </g>
+    <g id="Pin_PB2/D10/SS/PWM" tdo:groupmode="pin" tdo:x="-35" tdo:y="-120">
+      <text x="0" y="0" font-size="10" font-family="Arial" tdo:texttype="text" transform="matrix(0 1 -1 0 -35 -95)">
+        <tspan x="0" dy="3.3">PB2/D10/SS/PWM</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 -40 -110)">
+        <tspan x="0" dy="3.3">11</tspan>
+      </text>
+      <path d="M-35 -120L-35 -100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="south" tdo:pllength="20" />
+    </g>
+    <g id="Pin_PB3/D11/MOSI/PWM" tdo:groupmode="pin" tdo:x="-45" tdo:y="-120">
+      <text x="0" y="0" font-size="10" font-family="Arial" tdo:texttype="text" transform="matrix(0 1 -1 0 -45 -95)">
+        <tspan x="0" dy="3.3">PB3/D11/MOSI/PWM</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 -50 -110)">
+        <tspan x="0" dy="3.3">12</tspan>
+      </text>
+      <path d="M-45 -120L-45 -100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="south" tdo:pllength="20" />
+    </g>
+    <g id="Pin_PB4/D12/MISO" tdo:groupmode="pin" tdo:x="-55" tdo:y="-120">
+      <text x="0" y="0" font-size="10" font-family="Arial" tdo:texttype="text" transform="matrix(0 1 -1 0 -55 -95)">
+        <tspan x="0" dy="3.3">PB4/D12/MISO</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 -60 -110)">
+        <tspan x="0" dy="3.3">13</tspan>
+      </text>
+      <path d="M-55 -120L-55 -100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="south" tdo:pllength="20" />
+    </g>
+    <g id="Pin_PB5/D13/SCK" tdo:groupmode="pin" tdo:x="-65" tdo:y="-120">
+      <text x="0" y="0" font-size="10" font-family="Arial" tdo:texttype="text" transform="matrix(0 1 -1 0 -65 -95)">
+        <tspan x="0" dy="3.3">PB5/D13/SCK</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 -70 -110)">
+        <tspan x="0" dy="3.3">14</tspan>
+      </text>
+      <path d="M-65 -120L-65 -100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="south" tdo:pllength="20" />
+    </g>
+    <g id="Pin_GND@0" tdo:groupmode="pin" tdo:x="-75" tdo:y="-120">
+      <text x="0" y="0" font-size="10" font-family="Arial" tdo:texttype="text" transform="matrix(0 1 -1 0 -75 -95)">
+        <tspan x="0" dy="3.3">GND@0</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 -80 -110)">
+        <tspan x="0" dy="3.3">15</tspan>
+      </text>
+      <path d="M-75 -120L-75 -100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="south" tdo:pllength="20" />
+    </g>
+    <g id="Pin_AREF" tdo:groupmode="pin" tdo:x="-85" tdo:y="-120">
+      <text x="0" y="0" font-size="10" font-family="Arial" tdo:texttype="text" transform="matrix(0 1 -1 0 -85 -95)">
+        <tspan x="0" dy="3.3">AREF</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 -90 -110)">
+        <tspan x="0" dy="3.3">16</tspan>
+      </text>
+      <path d="M-85 -120L-85 -100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="south" tdo:pllength="20" />
+    </g>
+    <g id="Pin_ADC6" tdo:groupmode="pin" tdo:x="-85" tdo:y="120">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" tdo:texttype="text" transform="matrix(0 1 -1 0 -85 95)">
+        <tspan x="0" dy="3.3">ADC6</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 -90 110)">
+        <tspan x="0" dy="3.3">32</tspan>
+      </text>
+      <path d="M-85 120L-85 100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="north" tdo:pllength="20" />
+    </g>
+    <g id="Pin_ADC7" tdo:groupmode="pin" tdo:x="-75" tdo:y="120">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" tdo:texttype="text" transform="matrix(0 1 -1 0 -75 95)">
+        <tspan x="0" dy="3.3">ADC7</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 -80 110)">
+        <tspan x="0" dy="3.3">31</tspan>
+      </text>
+      <path d="M-75 120L-75 100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="north" tdo:pllength="20" />
+    </g>
+    <g id="Pin_RESET" tdo:groupmode="pin" tdo:x="-65" tdo:y="120">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" tdo:texttype="text" transform="matrix(0 1 -1 0 -65 95)">
+        <tspan x="0" dy="3.3">RESET</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 -70 110)">
+        <tspan x="0" dy="3.3">30</tspan>
+      </text>
+      <path d="M-65 120L-65 100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="north" tdo:pllength="20" />
+    </g>
+    <g id="Pin_3V3" tdo:groupmode="pin" tdo:x="-55" tdo:y="120">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" tdo:texttype="text" transform="matrix(0 1 -1 0 -55 95)">
+        <tspan x="0" dy="3.3">3V3</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 -60 110)">
+        <tspan x="0" dy="3.3">29</tspan>
+      </text>
+      <path d="M-55 120L-55 100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="north" tdo:pllength="20" />
+    </g>
+    <g id="Pin_5V" tdo:groupmode="pin" tdo:x="-45" tdo:y="120">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" tdo:texttype="text" transform="matrix(0 1 -1 0 -45 95)">
+        <tspan x="0" dy="3.3">5V</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 -50 110)">
+        <tspan x="0" dy="3.3">28</tspan>
+      </text>
+      <path d="M-45 120L-45 100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="north" tdo:pllength="20" />
+    </g>
+    <g id="Pin_GND@2" tdo:groupmode="pin" tdo:x="-35" tdo:y="120">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" tdo:texttype="text" transform="matrix(0 1 -1 0 -35 95)">
+        <tspan x="0" dy="3.3">GND@2</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 -40 110)">
+        <tspan x="0" dy="3.3">27</tspan>
+      </text>
+      <path d="M-35 120L-35 100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="north" tdo:pllength="20" />
+    </g>
+    <g id="Pin_GND@1" tdo:groupmode="pin" tdo:x="-25" tdo:y="120">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" tdo:texttype="text" transform="matrix(0 1 -1 0 -25 95)">
+        <tspan x="0" dy="3.3">GND@1</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 -30 110)">
+        <tspan x="0" dy="3.3">26</tspan>
+      </text>
+      <path d="M-25 120L-25 100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="north" tdo:pllength="20" />
+    </g>
+    <g id="Pin_VIN" tdo:groupmode="pin" tdo:x="-15" tdo:y="120">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" tdo:texttype="text" transform="matrix(0 1 -1 0 -15 95)">
+        <tspan x="0" dy="3.3">VIN</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 -20 110)">
+        <tspan x="0" dy="3.3">25</tspan>
+      </text>
+      <path d="M-15 120L-15 100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="north" tdo:pllength="20" />
+    </g>
+    <g id="Pin_PC0/AD0/D14" tdo:groupmode="pin" tdo:x="25" tdo:y="120">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" tdo:texttype="text" transform="matrix(0 1 -1 0 25 95)">
+        <tspan x="0" dy="3.3">PC0/AD0/D14</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 20 110)">
+        <tspan x="0" dy="3.3">19</tspan>
+      </text>
+      <path d="M25 120L25 100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="north" tdo:pllength="20" />
+    </g>
+    <g id="Pin_PC1/AD1/D15" tdo:groupmode="pin" tdo:x="35" tdo:y="120">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" tdo:texttype="text" transform="matrix(0 1 -1 0 35 95)">
+        <tspan x="0" dy="3.3">PC1/AD1/D15</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 30 110)">
+        <tspan x="0" dy="3.3">20</tspan>
+      </text>
+      <path d="M35 120L35 100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="north" tdo:pllength="20" />
+    </g>
+    <g id="Pin_PC2/AD2/D16" tdo:groupmode="pin" tdo:x="45" tdo:y="120">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" tdo:texttype="text" transform="matrix(0 1 -1 0 45 95)">
+        <tspan x="0" dy="3.3">PC2/AD2/D16</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 40 110)">
+        <tspan x="0" dy="3.3">21</tspan>
+      </text>
+      <path d="M45 120L45 100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="north" tdo:pllength="20" />
+    </g>
+    <g id="Pin_PC3/AD3/D17" tdo:groupmode="pin" tdo:x="55" tdo:y="120">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" tdo:texttype="text" transform="matrix(0 1 -1 0 55 95)">
+        <tspan x="0" dy="3.3">PC3/AD3/D17</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 50 110)">
+        <tspan x="0" dy="3.3">22</tspan>
+      </text>
+      <path d="M55 120L55 100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="north" tdo:pllength="20" />
+    </g>
+    <g id="Pin_PC4/AD4/D18/SDA" tdo:groupmode="pin" tdo:x="65" tdo:y="120">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" tdo:texttype="text" transform="matrix(0 1 -1 0 65 95)">
+        <tspan x="0" dy="3.3">PC4/AD4/D18/SDA</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 60 110)">
+        <tspan x="0" dy="3.3">23</tspan>
+      </text>
+      <path d="M65 120L65 100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="north" tdo:pllength="20" />
+    </g>
+    <g id="Pin_PC5/AD5/D19/SCL" tdo:groupmode="pin" tdo:x="75" tdo:y="120">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" tdo:texttype="text" transform="matrix(0 1 -1 0 75 95)">
+        <tspan x="0" dy="3.3">PC5/AD5/D19/SCL</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 70 110)">
+        <tspan x="0" dy="3.3">24</tspan>
+      </text>
+      <path d="M75 120L75 100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="north" tdo:pllength="20" />
+    </g>
+    <g id="Pin_VCC" tdo:groupmode="pin" tdo:x="150" tdo:y="-25">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" tdo:texttype="text" transform="matrix(1 0 0 1 125 -25)">
+        <tspan x="0" dy="3.3">VCC</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(1 0 0 1 140 -30)">
+        <tspan x="0" dy="3.3">33</tspan>
+      </text>
+      <path d="M150 -25L130 -25" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="20" />
+    </g>
+    <g id="Pin_MOSI" tdo:groupmode="pin" tdo:x="150" tdo:y="-15">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" tdo:texttype="text" transform="matrix(1 0 0 1 125 -15)">
+        <tspan x="0" dy="3.3">MOSI</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(1 0 0 1 140 -20)">
+        <tspan x="0" dy="3.3">34</tspan>
+      </text>
+      <path d="M150 -15L130 -15" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="20" />
+    </g>
+    <g id="Pin_GND" tdo:groupmode="pin" tdo:x="150" tdo:y="-5">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" tdo:texttype="text" transform="matrix(1 0 0 1 125 -5)">
+        <tspan x="0" dy="3.3">GND</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(1 0 0 1 140 -10)">
+        <tspan x="0" dy="3.3">35</tspan>
+      </text>
+      <path d="M150 -5L130 -5" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="20" />
+    </g>
+    <g id="Pin_RST" tdo:groupmode="pin" tdo:x="150" tdo:y="5">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" tdo:texttype="text" transform="matrix(1 0 0 1 125 5)">
+        <tspan x="0" dy="3.3">RST</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(1 0 0 1 140 0)">
+        <tspan x="0" dy="3.3">36</tspan>
+      </text>
+      <path d="M150 5L130 5" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="20" />
+    </g>
+    <g id="Pin_SCK" tdo:groupmode="pin" tdo:x="150" tdo:y="15">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" tdo:texttype="text" transform="matrix(1 0 0 1 125 15)">
+        <tspan x="0" dy="3.3">SCK</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(1 0 0 1 140 10)">
+        <tspan x="0" dy="3.3">37</tspan>
+      </text>
+      <path d="M150 15L130 15" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="20" />
+    </g>
+    <g id="Pin_MISO" tdo:groupmode="pin" tdo:x="150" tdo:y="25">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" tdo:texttype="text" transform="matrix(1 0 0 1 125 25)">
+        <tspan x="0" dy="3.3">MISO</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(1 0 0 1 140 20)">
+        <tspan x="0" dy="3.3">38</tspan>
+      </text>
+      <path d="M150 25L130 25" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="west" tdo:pllength="20" />
+    </g>
+    <g id="Pin_SDA" tdo:groupmode="pin" tdo:x="-95" tdo:y="-120">
+      <text x="0" y="0" font-size="10" font-family="Arial" tdo:texttype="text" transform="matrix(0 1 -1 0 -95 -95)">
+        <tspan x="0" dy="3.3">SDA</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 -100 -110)">
+        <tspan x="0" dy="3.3">17</tspan>
+      </text>
+      <path d="M-95 -120L-95 -100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="south" tdo:pllength="20" />
+    </g>
+    <g id="Pin_SCL" tdo:groupmode="pin" tdo:x="-105" tdo:y="-120">
+      <text x="0" y="0" font-size="10" font-family="Arial" tdo:texttype="text" transform="matrix(0 1 -1 0 -105 -95)">
+        <tspan x="0" dy="3.3">SCL</tspan>
+      </text>
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(0 1 -1 0 -110 -110)">
+        <tspan x="0" dy="3.3">18</tspan>
+      </text>
+      <path d="M-105 -120L-105 -100" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="south" tdo:pllength="20" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="end" font-weight="bold" transform="matrix(1 0 0 1 -15 -190)">
+      <tspan x="0">U2</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(0.999999999999996 8.74227800037288E-08 8.74227800037288E-08 -0.999999999999996 790 60.0000008742278)" id="3dac59128f8b492dad898f48f6e960ce" selectable="true">
+    <line x1="-10" y1="20" x2="-10" y2="-20" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-10" y1="-20" x2="10" y2="-20" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="10" y1="-20" x2="10" y2="20" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="10" y1="20" x2="-10" y2="20" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_P$1" tdo:groupmode="pin" tdo:x="-30" tdo:y="-15">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(-1 0 0 -1 -20 -20) scale(-1 1)">
+        <tspan x="0" dy="3.3">1</tspan>
+      </text>
+      <path d="M-30 -15L-10 -15" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="20" />
+    </g>
+    <g id="Pin_P$2" tdo:groupmode="pin" tdo:x="-30" tdo:y="0">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(-1 0 0 -1 -20 -5) scale(-1 1)">
+        <tspan x="0" dy="3.3">2</tspan>
+      </text>
+      <path d="M-30 0L-10 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="20" />
+    </g>
+    <g id="Pin_P$3" tdo:groupmode="pin" tdo:x="-30" tdo:y="15">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(-1 0 0 -1 -20 10) scale(-1 1)">
+        <tspan x="0" dy="3.3">3</tspan>
+      </text>
+      <path d="M-30 15L-10 15" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="20" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 765 90)">
+      <tspan x="0">CHANNEL1</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(0.999999999999996 8.74227800037288E-08 8.74227800037288E-08 -0.999999999999996 790 100.000000874228)" id="99d9e59d9719479b8b851a73136b4230" selectable="true">
+    <line x1="-10" y1="20" x2="-10" y2="-20" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-10" y1="-20" x2="10" y2="-20" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="10" y1="-20" x2="10" y2="20" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="10" y1="20" x2="-10" y2="20" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_P$1" tdo:groupmode="pin" tdo:x="-30" tdo:y="-15">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(-1 0 0 -1 -20 -20) scale(-1 1)">
+        <tspan x="0" dy="3.3">1</tspan>
+      </text>
+      <path d="M-30 -15L-10 -15" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="20" />
+    </g>
+    <g id="Pin_P$2" tdo:groupmode="pin" tdo:x="-30" tdo:y="0">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(-1 0 0 -1 -20 -5) scale(-1 1)">
+        <tspan x="0" dy="3.3">2</tspan>
+      </text>
+      <path d="M-30 0L-10 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="20" />
+    </g>
+    <g id="Pin_P$3" tdo:groupmode="pin" tdo:x="-30" tdo:y="15">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(-1 0 0 -1 -20 10) scale(-1 1)">
+        <tspan x="0" dy="3.3">3</tspan>
+      </text>
+      <path d="M-30 15L-10 15" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="20" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 765 130)">
+      <tspan x="0">CHANNEL2</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(0.999999999999996 8.74227800037288E-08 8.74227800037288E-08 -0.999999999999996 790 140.000016133017)" id="0733dd4cbef44ffe9a2f90c4142e81f0" selectable="true">
+    <line x1="-10" y1="20" x2="-10" y2="-20" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-10" y1="-20" x2="10" y2="-20" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="10" y1="-20" x2="10" y2="20" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="10" y1="20" x2="-10" y2="20" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_P$1" tdo:groupmode="pin" tdo:x="-30" tdo:y="-15">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(-1 0 0 -1 -20 -20) scale(-1 1)">
+        <tspan x="0" dy="3.3">1</tspan>
+      </text>
+      <path d="M-30 -15L-10 -15" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="20" />
+    </g>
+    <g id="Pin_P$2" tdo:groupmode="pin" tdo:x="-30" tdo:y="0">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(-1 0 0 -1 -20 -5) scale(-1 1)">
+        <tspan x="0" dy="3.3">2</tspan>
+      </text>
+      <path d="M-30 0L-10 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="20" />
+    </g>
+    <g id="Pin_P$3" tdo:groupmode="pin" tdo:x="-30" tdo:y="15">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(-1 0 0 -1 -20 10) scale(-1 1)">
+        <tspan x="0" dy="3.3">3</tspan>
+      </text>
+      <path d="M-30 15L-10 15" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="20" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 765 170)">
+      <tspan x="0">CHANNEL3</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(0.999999999999996 8.74227800037288E-08 8.74227800037288E-08 -0.999999999999996 790 180.000000874228)" id="f3b87b3ff2b940199f0121624ef0551d" selectable="true">
+    <line x1="-10" y1="20" x2="-10" y2="-20" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="-10" y1="-20" x2="10" y2="-20" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="10" y1="-20" x2="10" y2="20" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <line x1="10" y1="20" x2="-10" y2="20" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill="none" />
+    <g id="Pin_P$1" tdo:groupmode="pin" tdo:x="-30" tdo:y="-15">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(-1 0 0 -1 -20 -20) scale(-1 1)">
+        <tspan x="0" dy="3.3">1</tspan>
+      </text>
+      <path d="M-30 -15L-10 -15" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="20" />
+    </g>
+    <g id="Pin_P$2" tdo:groupmode="pin" tdo:x="-30" tdo:y="0">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(-1 0 0 -1 -20 -5) scale(-1 1)">
+        <tspan x="0" dy="3.3">2</tspan>
+      </text>
+      <path d="M-30 0L-10 0" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="20" />
+    </g>
+    <g id="Pin_P$3" tdo:groupmode="pin" tdo:x="-30" tdo:y="15">
+      <text x="0" y="0" font-size="10" font-family="Arial" text-anchor="middle" tdo:texttype="number" transform="matrix(-1 0 0 -1 -20 10) scale(-1 1)">
+        <tspan x="0" dy="3.3">3</tspan>
+      </text>
+      <path d="M-30 15L-10 15" fill="none" stroke="#000000" stroke-width="2" tdo:pldir="east" tdo:pllength="20" />
+    </g>
+  </g>
+  <g>
+    <text x="0" y="0" font-size="10" font-family="Arial" font-weight="bold" transform="matrix(1 0 0 1 765 210)">
+      <tspan x="0">CHANNEL4</tspan>
+    </text>
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 250 0)" id="841a57cfbded4621913fec0198e8fe15">
+    <line x1="0" y1="0" x2="10" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <g tdo:type="object" transform="matrix(1 0 0 1 230 0)" id="82958da7d7664fe780dd4ea824e8699d">
+    <line x1="0" y1="0" x2="20" y2="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+</svg>

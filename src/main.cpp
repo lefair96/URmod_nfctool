@@ -75,6 +75,7 @@ uint8_t relay2Pin = 6;
 uint8_t relay3Pin = 5;
 uint8_t relay4Pin = 4;
 
+uint16_t cycleTread = 1500;
 // *** END OF CUSTOM CODE ***
 
 
@@ -180,7 +181,7 @@ void loop(void) {
           Serial.println("");
 
           // Wait a bit before reading the card again
-          delay(1000);
+          delay(cycleTread);
         }
         else
         {
@@ -209,7 +210,7 @@ void loop(void) {
         Serial.println("");
 
         // Wait a bit before reading the card again
-        delay(1000);
+        delay(cycleTread);
       }
       else
       {

@@ -1,0 +1,45 @@
+def pickPalletItem(type, pallDefs, grid, stock):
+
+  # seleziona un pezzo sulla griglia, noti il tipo di pezzo e lo stato della griglia
+
+  # type(int) è il tipo di pezzo che voglio ritirare
+
+  # pallDefs([int[],...]) contiene le definizioni dei pallet
+
+  # grid(int[]) è un array di 16 elementi che contiene informazioni sul tipo
+  # di pallet nella griglia. griglia è definita a partire dall'origine XY del
+  # piastra pallet, e ogni elemento incrementale fa riferimento a incrementi in X e
+  # incrementa in Y quando il numero di incremento supera il numero di colonne
+  # (ovvero il numero di elementi in direzione X)
+
+  # stock(int[]) è un array di 16 elementi che contiene informazioni sul
+  # quantità di pezzi in ogni pallet della griglia.
+
+  # lo script funziona finché le variabili del robot non vengono resettate. Tuttavia, anche
+  # in caso di riavvio, è possibile scrivere manualmente le info sulla griglia e lo stock
+  # all'inizio del programma, così da 'insegnare' al robot dove farlo
+  # riprendere
+
+  i = 0
+
+  while i < length(grid):
+
+    if grid[i] == item and stock[i] > 0 :
+      
+      nItems = stock[i]
+
+      nPosX = pallDefs[type,0]
+      nPosY = pallDefs[type,1]
+
+      stockMax = nPosX*nPosY
+      nItem = 1 + stockMax - nItems
+
+      pick = [i,nItem]
+
+      # pick = [numero del pallet, numero del pezzo]
+
+      return pick
+ end
+i = i + 1
+end
+end

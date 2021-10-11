@@ -1,0 +1,5 @@
+def ini_types():
+
+    types = [2,2,2,1,2,2,2,1,2,2,2,1,2,1,0,0] 
+    return types
+end

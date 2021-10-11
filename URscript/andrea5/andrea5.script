@@ -1,0 +1,215 @@
+def andrea5():
+  set_standard_analog_input_domain(0, 1)
+  set_standard_analog_input_domain(1, 1)
+  set_tool_analog_input_domain(0, 1)
+  set_tool_analog_input_domain(1, 1)
+  set_analog_outputdomain(0, 0)
+  set_analog_outputdomain(1, 0)
+  set_input_actions_to_default()
+  set_tcp(p[-0.0475,0.08227,0.045,0.0,0.0,0.0])
+  set_payload(0.66)
+  set_gravity([8.503688472232543E-16, 6.943788591251896, 6.943788591251898])
+  set_tool_voltage(0)
+  step_count_8fe978ed_887f_476d_b1e0_703872db6f0e = 0.0
+  thread Step_Counter_Thread_6a05c750_da3e_4fa0_b9d3_738f6932d16c():
+    while (True):
+      step_count_8fe978ed_887f_476d_b1e0_703872db6f0e = step_count_8fe978ed_887f_476d_b1e0_703872db6f0e + 1.0
+      sync()
+    end
+  end
+  run Step_Counter_Thread_6a05c750_da3e_4fa0_b9d3_738f6932d16c()
+  set_safety_mode_transition_hardness(1)
+  global Piano_Carrello=p[0.15738038194676504,0.34804679499613556,-0.10180660081110104,-0.604770547029434,0.6135130099633843,1.4699264996051509]
+  global Piano_Inclinato=p[0.24163290852284977,0.484348843812812,-0.08183038406600258,-0.13450397856501406,0.1337107555826035,1.5511152546959441]
+  global XY=[0,0]
+  global nCycle=0
+  global pallStocks=[16,16,16,40,16,16,16,40,16,16,16,40,16,40,0,0]
+  global pick=[0,0]
+  while (True):
+    $ 2 "Robot Program"
+    $ 3 "Script: relPose.script"
+    def relPose(FeaturePose,vect):
+    
+        # FeaturePose is the pose for the feature
+        # vect = p[0.1, 0, 0, 0, 0, 0] makes us move 10cm in the X direction of the feature
+        # credits: https://forum.universal-robots.com/t/move-tcp-relative-to-feature/15492
+    
+       PoseRelativeToFeature = pose_trans(pose_inv(FeaturePose), get_actual_tcp_pose())
+       MoveTCPRelativeToFeature = pose_add(PoseRelativeToFeature, vect)
+       return pose_trans(FeaturePose, MoveTCPRelativeToFeature)
+    
+    end
+    $ 4 "Script: calcItemPosition.script"
+    def calcItemPosition(pick, item, pallDefs, grid):
+    
+        # calcola la posizione assoluta del pezzo scelto da pickPalletItem
+        # l'origine è considerato il punto 0 del primo slot della griglia
+    
+        # nPosX è il numero di colonne
+        # nPosY è il numero di righe
+        # distX è la distanza tra colonne
+        # distY è la distanza tra righe
+        # [posX1, posY1] è la posizione del primo pezzo rispetto all'origine del pallet
+    
+        nPallet = pick[0] + 1 # numero del pallet (gli id partono da 0)
+        nItem = pick[1] + 1 # numero del pezzo
+    
+        nPosXgrid = grid[0] # numero di posizioni della giglia in X
+        distXgrid = grid[2] # distanza tra gli slot della griglia in X
+        distYgrid = grid[3] # distanza tra gli slot della griglia in Y
+    
+        pallPosX = nPallet%nPosXgrid
+        if(pallPosX==0): pallPosX = nPosXgrid end
+        pallPosY = ceil(nPallet/nPosXgrid)
+    
+        nPosX = pallDefs[item,0]
+        nPosY = pallDefs[item,1]
+        distX = pallDefs[item,2]
+        distY = pallDefs[item,3]
+        posX1 = pallDefs[item,4]
+        posY1 = pallDefs[item,5]
+    
+        posX = nItem%nPosX
+        if(posX==0): posX = nPosX end
+        posY = ceil(nItem/nPosX)
+    
+        # [X,Y] è la posizione del pezzo rispetto all'origine della griglia
+    
+        X=distX*(posX - 1) + posX1 + distXgrid*(pallPosX - 1)
+        Y=distY*(posY - 1) + posY1 + distYgrid*(pallPosY - 1)
+        xy=[X,Y]
+    
+        return xy
+    
+     end
+    $ 5 "Script: pickPalletItem.script"
+    def pickPalletItem(type, pallDefs, pallTypes, pallStocks):
+    
+      # seleziona un pezzo sulla griglia, noti il tipo di pezzo e lo stato della griglia
+    
+      # lo script funziona finché le variabili del robot non vengono resettate. Tuttavia, anche
+      # in caso di riavvio, è possibile scrivere manualmente le info sulla griglia e lo stock
+      # all'inizio del programma, così da 'insegnare' al robot dove farlo
+      # riprendere
+    
+      iPallet = 0 # inizializzo l'id del pallet
+    
+      while iPallet < length(pallStocks):
+    
+        if pallTypes[iPallet] == type and pallStocks[iPallet] > 0 :
+    
+          nItems = pallStocks[iPallet] # numero di pezzi nello stock del pallet iesimo
+    
+          nPosX = pallDefs[type,0] # numero di posizioni lungo x, come definito per il pallet di tipo "type"
+          nPosY = pallDefs[type,1] # numero di posizioni lungo y, come definito per il pallet di tipo "type"
+    
+          stockMax = nPosX*nPosY
+          iItem = stockMax - nItems # id del pezzo
+    
+          pick = [iPallet,iItem]
+    
+          # pick = [id del pallet, id del pezzo]
+    
+          return pick
+     end
+    iPallet = iPallet + 1
+    end
+    end
+    $ 6 "Script: stockUpdate.script"
+    def stockUpdate(pick,stock):
+    
+        # simple function that ingests the output of pickItem and returns the
+        # modified stock array. just so to avoid using global variables and
+        # multi-dimensional arrays
+    
+        i = pick[0]
+        stock[i] = stock[i] - 1
+        return stock
+    
+    
+    end
+    $ 7 "Script: ini_grid.script"
+    def ini_grid():
+    
+        grid = [4,4,90,90]
+        return grid
+    end
+    $ 8 "Script: ini_defs.script"
+    def ini_defs():
+    
+        # definition = [nPosX,nPosY,distX,distY,posX1,posY1]
+    
+        # nPosX è il numero di colonne
+        # nPosY è il numero di righe
+        # distX è la distanza tra colonne
+        # distY è la distanza tra righe
+        # [posX1, posY1] è la posizione del primo pezzo rispetto all'origine del pallet
+    
+        defs = [
+            [0,0,0,0,0,0], # slot vuoto
+            [4,10,18,8,16.42,19.06], # pallet nfc
+            [4,4,22,22,11,11] # pallet ghiere
+        ]
+        return defs
+    end
+    $ 9 "Script: ini_types.script"
+    def ini_types():
+    
+        types = [2,2,2,1,2,2,2,1,2,2,2,1,2,1,0,0]
+        return types
+    end
+    $ 10 "Script: ini_stocks.script"
+    def ini_stocks():
+    
+        stocks = [16,16,16,40,16,16,16,40,16,16,16,40,16,40,0,0]
+        return stocks
+    end
+    $ 11 "If nCycle≟0"
+    if (nCycle == 0):
+      $ 12 "pallTypes≔ini_types()"
+      global pallTypes=ini_types()
+      $ 13 "grid≔ini_grid()"
+      global grid=ini_grid()
+      $ 14 "pallDefs≔ini_defs()"
+      global pallDefs=ini_defs()
+      $ 15 "pallStocks≔ini_stocks()"
+      global pallStocks=ini_stocks()
+      $ 16 "Popup"
+      popup(str_cat("",grid), "Message", False, False, blocking=True)
+      $ 17 "nCycle≔1"
+      global nCycle=1
+    end
+    $ 18 "item≔2"
+    global item=2
+    $ 19 "pick≔pickPalletItem(item,pallDefs,pallTypes,pallStocks)"
+    global pick=pickPalletItem(item,pallDefs,pallTypes,pallStocks)
+    $ 22 "XY≔calcItemPosition(pick, item,pallDefs, grid)"
+    global XY=calcItemPosition(pick, item,pallDefs, grid)
+    $ 23 "MoveJ"
+    $ 24 "Popup"
+    popup(str_cat("",pick), "Message", False, False, blocking=True)
+    $ 26 "Waypoint_3" "breakAfter"
+    set_tcp(p[-0.0475,0.08227,0.045,0.0,0.0,0.0])
+    movej(get_inverse_kin(p[.049535268956, .412361915762, -.175189861203, -2.288797765647, -.604303795934, -.263034894121], qnear=[-1.9780284022644494, -0.8353266490806952, 1.9845757121974918, -0.328172720335397, 1.2935948152505592, 2.32775121272687]), a=1.3962634015954636, v=1.0471975511965976)
+    $ 27 "p_pall≔relPose(Piano_Carrello_const,p[XY[0]/1000,XY[1]/1000,0.0,0.0,0.0,0.0])"
+    global p_pall=relPose(p[0.15738038194676504,0.34804679499613556,-0.10180660081110104,-0.604770547029434,0.6135130099633843,1.4699264996051509],p[XY[0]/1000,XY[1]/1000,0.0,0.0,0.0,0.0])
+    $ 28 "p_pall" "breakAfter"
+    set_tcp(p[-0.0475,0.08227,0.045,0.0,0.0,0.0])
+    movej(p_pall, a=1.3962634015954636, v=1.0471975511965976)
+    $ 32 "MoveL"
+    $ 34 "p_pall≔relPose(Piano_Carrello_const,p[0.0,0.0,-0.1,0.0,0.0,0.0])"
+    global p_pall=relPose(p[0.15738038194676504,0.34804679499613556,-0.10180660081110104,-0.604770547029434,0.6135130099633843,1.4699264996051509],p[0.0,0.0,-0.1,0.0,0.0,0.0])
+    $ 35 "p_pall" "breakAfter"
+    set_tcp(p[-0.0475,0.08227,0.045,0.0,0.0,0.0])
+    movel(pose_trans(p[0.0,0.0,0.0,0.0,0.0,0.0], p_pall), a=1.2, v=0.25)
+    $ 36 "p_pall≔relPose(Piano_Carrello_const,p[0.0,0.0,+0.1,0.0,0.0,0.0])"
+    global p_pall=relPose(p[0.15738038194676504,0.34804679499613556,-0.10180660081110104,-0.604770547029434,0.6135130099633843,1.4699264996051509],p[0.0,0.0,+0.1,0.0,0.0,0.0])
+    $ 37 "p_pall" "breakAfter"
+    set_tcp(p[-0.0475,0.08227,0.045,0.0,0.0,0.0])
+    movel(pose_trans(p[0.0,0.0,0.0,0.0,0.0,0.0], p_pall), a=1.2, v=0.25)
+    $ 38 "pallStocks≔stockUpdate(pick,pallStocks)"
+    global pallStocks=stockUpdate(pick,pallStocks)
+    $ 39 "Popup"
+    popup(str_cat("",pallStocks), "Message", False, False, blocking=True)
+  end
+end

@@ -1,0 +1,33 @@
+def pickItem(item,grid,stock):
+  # item (int) is the type of item i want to pick up
+
+  # grid (int[]) is a 16 items array that carries information about the type 
+  # of pallet in the grid. grid is defined starting from the XY origin of the
+  # pallet plate, and each incremental element refers to increments in X and
+  # increments in Y when the increment number exceeds the number of columns
+  # (that is the number of items in X direction)
+
+  # stock (int[]) is a 16 items array that carries information about the
+  # quantity of items in each pallet of the grid. 
+
+  # the script works as long as robot variables are not reset. However, even
+  # in case of variable reset, one can manually feed edited grid and stock 
+  # variables at the beginning of program, so to 'teach' the robot where to 
+  # resume from 
+
+  i = 0
+  while (i < length(grid)):
+
+    if (grid[i] == item and stock[i] > 0)
+
+      pick = []
+      pick[0] = i
+      pick[1] = stock[i]
+      
+      return pick
+
+    end
+
+  end
+
+end

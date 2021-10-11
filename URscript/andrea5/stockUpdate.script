@@ -1,0 +1,12 @@
+def stockUpdate(pick,pallStocks):
+    
+    # semplice funzione che ingerisce l'output di pickPalletItem e restituisce la
+    # array stock modificata. 
+
+    iPallet = pick[0] #l'id del pallet
+
+    pallStocks[iPallet] = pallStocks[iPallet] - 1
+
+    return pallStocks
+
+end

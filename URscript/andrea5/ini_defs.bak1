@@ -1,0 +1,17 @@
+def ini_types():
+
+    # definition = [nPosX,nPosY,distX,distY,posX1,posY1]
+    
+    # nPosX è il numero di colonne
+    # nPosY è il numero di righe
+    # distX è la distanza tra colonne
+    # distY è la distanza tra righe
+    # [posX1, posY1] è la posizione del primo pezzo rispetto all'origine del pallet
+
+    defs = [
+        [0,0,0,0,0,0], # slot vuoto
+        [4,10,18,8,16.42,19.06], # pallet nfc
+        [4,4,22,22,11,11] # pallet ghiere
+    ] 
+    return defs
+end

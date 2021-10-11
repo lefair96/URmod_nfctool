@@ -1,0 +1,15 @@
+  # type(int) è il tipo di pezzo che voglio ritirare
+
+  # pallDefs([int[],...]) contiene le definizioni dei pallet
+
+  # grid(int[]) è un array di 16 elementi che contiene informazioni sul tipo
+  # di pallet nella griglia. griglia è definita a partire dall'origine XY del
+  # piastra pallet, e ogni elemento incrementale fa riferimento a incrementi in X e
+  # incrementa in Y quando il numero di incremento supera il numero di colonne
+  # (ovvero il numero di elementi in direzione X)
+
+  # stock(int[]) è un array di 16 elementi che contiene informazioni sul
+  # quantità di pezzi in ogni pallet della griglia.
+
+  pallDefs = [[0,0,0,0,0,0],[4,10,18,8,16.42,19.06],[0,0,0,0,0,0]]
+  grid = [4,4,90,90]

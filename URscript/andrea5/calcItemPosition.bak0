@@ -1,0 +1,42 @@
+def calcItemPosition(pick, pallDefs, grid):
+
+    # calcola la posizione assoluta del pezzo scelto da pickPalletItem
+    # l'origine è considerato il punto 0 del primo slot della griglia
+
+    # nPosX è il numero di colonne
+    # nPosY è il numero di righe
+    # distX è la distanza tra colonne
+    # distY è la distanza tra righe
+    # [posX1, posY1] è la posizione del primo pezzo rispetto all'origine del pallet
+
+    nPallet = pick[0] + 1 # numero del pallet (gli id partono da 0)
+    nItem = pick[1] + 1 # numero del pezzo
+
+    nPosXgrid = grid[0] # numero di posizioni della giglia in X
+    distXgrid = grid[2] # distanza tra gli slot della griglia in X
+    distYgrid = grid[3] # distanza tra gli slot della griglia in Y
+
+    pallPosX = nPallet%nPosXgrid
+    if(pallPosX==0): pallPosX = nPosXgrid end
+    pallPosY = ceil(nPallet/nPosXgrid)
+
+    nPosX = pallDefs[pall,0]
+    nPosY = pallDefs[pall,1]
+    distX = pallDefs[pall,2]
+    distY = pallDefs[pall,3]
+    posX1 = pallDefs[pall,4]
+    posY1 = pallDefs[pall,5] 
+
+    posX = nItem%nPosX
+    if(posX==0): posX = nPosX end
+    posY = ceil(nItem/nPosX)
+
+    # [X,Y] è la posizione del pezzo rispetto all'origine della griglia
+
+    X=distX*(posX - 1) + posX1 + distXgrid*(pallPosX - 1)
+    Y=distY*(posY - 1) + posY1 + distYgrid*(pallPosY - 1)
+    xy=[X,Y]
+
+    return xy
+  
+ end

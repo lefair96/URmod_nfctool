@@ -1,0 +1,33 @@
+ Program
+   Init Variables
+   Robot Program
+     Script: relPose.script
+     Script: calcPallPos1XY.script
+     Script: pickPall.script
+     Script: stockUpdate.script
+     Script: pickItem.script
+     grid≔grid
+     pallTypes≔pallTypes
+     pick≔pickItem(1,grid,stock)
+     countNFC≔countNFC+1
+     MoveJ
+       Waypoint_1
+     XY≔calcPallPos1XY(4,18,10,8,countNFC)
+     MoveJ
+       Popup
+       Waypoint_2
+       p_pall≔relPose(Piano_Carrello_const,p[XY[0]/1000,XY[1]/1000,0.0,0.0,0.0,0.0])
+       p_pall
+       'centro_modulo≔relPose(Piano_Carrello_const,p[-0.05,-0.05,0.0,0.0,0.0,0.0])'
+       'centro_modulo'
+       'pezzo1≔relPose(Piano_Carrello_const,p[-0.0275,-0.0337,0.0,0.0,0.0,0.0])'
+     MoveL
+       Popup: o
+       p_pall≔relPose(Piano_Carrello_const,p[0.0,0.0,-0.1,0.0,0.0,0.0])
+       p_pall
+       p_pall≔relPose(Piano_Carrello_const,p[0.0,0.0,+0.1,0.0,0.0,0.0])
+       p_pall
+       stock≔stockUpdate(pick,stock)
+     'MoveJ'
+     'MoveJ'
+     'MoveJ'

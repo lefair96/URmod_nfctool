@@ -1,0 +1,4 @@
+pallDefs: "slot vuoto", "pallet sensori nfc", "pallet ghiere autoblock/twistblock"
+pallDefs = [[0,0,0,0,0,0],[4,10,18,8,16.42,19.06],[0,0,0,0,0,0]]
+
+origine della griglia si trova a [96.24,108.75] rispetto all'origine del "piano carrello"

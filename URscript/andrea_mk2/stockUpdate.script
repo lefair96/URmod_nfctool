@@ -1,0 +1,12 @@
+def stockUpdate(pick,stock):
+    
+    # simple function that ingests the output of pickItem and returns the
+    # modified stock array. just so to avoid using global variables and
+    # multi-dimensional arrays
+
+    i = pick[0]
+    stock[i] = stock[i] - 1
+    return stock
+
+  
+end

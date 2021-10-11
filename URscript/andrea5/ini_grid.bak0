@@ -1,0 +1,5 @@
+def iniGrid():
+    
+    grid = [4,4,90,90]
+    return grid
+end

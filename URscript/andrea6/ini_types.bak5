@@ -1,0 +1,28 @@
+def ini_types(): 
+
+    visualTypes = [   
+        
+        [2,1,0,0],
+        [2,2,2,1],
+        [2,2,2,1],
+        [2,2,2,1]
+        
+    ]
+    
+    types = []
+    iii = 0
+    s = size(visualTypes)
+    i = 0
+    while i < s[0]:
+
+        ii=0
+        while ii < s[1]:
+
+            types[iii] = visualTypes[s[0]-1-i,ii]
+            ii = ii + 1
+            iii = iii + 1
+        end
+    i = i + 1
+    end
+    return types
+end

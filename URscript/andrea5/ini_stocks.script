@@ -1,0 +1,5 @@
+def ini_stocks():
+
+    stocks = [16,16,16,40,16,16,16,40,16,16,16,40,16,40,0,0] 
+    return stocks
+end

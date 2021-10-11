@@ -1,0 +1,43 @@
+ Program
+   Init Variables
+   Robot Program
+     Script: relPose.script
+     Script: calcItemPosition.script
+     Script: pickPalletItem.script
+     Script: stockUpdate.script
+     Script: ini_grid.script
+     Script: ini_defs.script
+     Script: ini_types.script
+     Script: ini_stocks.script
+     If nCycle≟0
+       pallTypes≔ini_types()
+       grid≔ini_grid()
+       pallDefs≔ini_defs()
+       pallStocks≔ini_stocks()
+       Popup
+       nCycle≔1
+     MoveJ
+       'Waypoint_1'
+       azzeramento
+     item≔2
+     pick≔pickPalletItem(item,pallDefs,pallTypes,pallStocks)
+     XY≔calcItemPosition(pick, item,pallDefs, grid)
+     MoveJ
+       Popup
+       'Waypoint_2'
+       p_pall≔relPose(Piano_Carrello_const,p[XY[0]/1000,XY[1]/1000,0.0,0.0,0.0,0.0])
+       p_pall
+       'centro_modulo≔relPose(Piano_Carrello_const,p[-0.05,-0.05,0.0,0.0,0.0,0.0])'
+       'centro_modulo'
+       'pezzo1≔relPose(Piano_Carrello_const,p[-0.0275,-0.0337,0.0,0.0,0.0,0.0])'
+     MoveL
+       'Popup: o'
+       p_pall≔relPose(Piano_Carrello_const,p[0.0,0.0,-0.1,0.0,0.0,0.0])
+       p_pall
+       p_pall≔relPose(Piano_Carrello_const,p[0.0,0.0,+0.1,0.0,0.0,0.0])
+       p_pall
+       pallStocks≔stockUpdate(pick,pallStocks)
+       Popup
+     'MoveJ'
+     'MoveJ'
+     'MoveJ'

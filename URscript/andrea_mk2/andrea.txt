@@ -1,0 +1,41 @@
+ Programma
+   Variabili iniz
+   Programma Robot
+     Script: relPose.script
+     Script: calcPallPos1XY.script
+     countNFC≔countNFC+1
+     MuoviJ
+       Waypoint_1
+     XY≔calcPallPos1XY(4,18,10,8,countNFC)
+     MuoviJ
+       'Popup'
+       Waypoint_2
+       p_pall≔relPose(Piano_Carrello_const,p[XY[0]/1000,XY[1]/1000,0.0,0.0,0.0,0.0])
+       p_pall
+       'centro_modulo≔relPose(Piano_Carrello_const,p[-0.05,-0.05,0.0,0.0,0.0,0.0])'
+       'centro_modulo'
+       'pezzo1≔relPose(Piano_Carrello_const,p[-0.0275,-0.0337,0.0,0.0,0.0,0.0])'
+     MuoviL
+       p_pall≔relPose(Piano_Carrello_const,p[0.0,0.0,-0.1,0.0,0.0,0.0])
+       p_pall
+       Popup: o
+       p_pall≔relPose(Piano_Carrello_const,p[0.0,0.0,+0.1,0.0,0.0,0.0])
+       p_pall
+     MuoviJ
+       Punto_percors_1
+       Punto_percors_2
+       Punto_percors_3
+       Punto_percors_4
+     MuoviJ
+       Punto_percors_5
+       Punto_percors_6
+       Punto_percors_7
+       Punto_percors_8
+       Punto_percors_9
+     MuoviJ
+       Punto_percor_10
+       Punto_percor_11
+       Punto_percor_12
+       Punto_percor_13
+       Punto_percor_12
+       Punto_percor_14
